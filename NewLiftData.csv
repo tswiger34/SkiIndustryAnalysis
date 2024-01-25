@@ -1,0 +1,1777 @@
+﻿Status,Lift Name,Type,Capacity,Vertical Rise,Length,Line Speed,Drive,Ride Time,Resort,State,Ikon,Epic,Price
+Operating,1 Northern Spirit Express,High Speed Quad,2400,1847,6644,1000,Top,6.6,49 north,wa,0,0,50
+Operating,5 Sunrise,Quad,1250,1510,,,Top,9.8,49 north,wa,0,0,50
+Operating,2 Grubstake,Double,1200,793,3445,500,Bottom,6.9,49 north,wa,0,0,50
+Operating,6 Angel Peak,Double,1090,1144,,,Top,8.7,49 north,wa,0,0,50
+Operating,3 Payday,Double,1000,348,1903,400,Bottom,4.8,49 north,wa,0,0,50
+Operating,4 Silver Lode,Double,950,1595,5100,500,Top,10.2,49 north,wa,0,0,50
+Operating,Chair 2,Quad,2150,200,1140,375,Bottom,3,afton alps,mn,0,1,
+Operating,Chair 3,Triple,1800,235,983,400,Bottom,2.5,afton alps,mn,0,1,
+Operating,Chair 7,Double,1500,200,826,400,Top,2.1,afton alps,mn,0,1,
+Operating,Chair 13,Triple,1500,280,1923,400,Bottom,4.8,afton alps,mn,0,1,
+Operating,Chair 5,Double,1200,230,1232,400,Top,3.1,afton alps,mn,0,1,
+Operating,Chair 1,Double,1000,240,1150,400,Bottom,2.9,afton alps,mn,0,1,
+Operating,Chair 4,Double,1000,65,554,340,Bottom,1.6,afton alps,mn,0,1,
+Operating,Chair 6,Double,1000,269,1293,400,Top,3.2,afton alps,mn,0,1,
+Operating,Chair 9,Double,1000,163,1144,345,Top,3.3,afton alps,mn,0,1,
+Operating,Chair 10,Double,1000,153,971,340,Top,2.9,afton alps,mn,0,1,
+Operating,Chair 11,Double,1000,190,1100,400,Top,2.8,afton alps,mn,0,1,
+Operating,Chair 12,Double,1000,175,674,400,Top,1.7,afton alps,mn,0,1,
+Operating,Chair 14,Double,1000,290,1875,400,Top,4.7,afton alps,mn,0,1,
+Operating,Chair 15,Double,1000,277,1628,400,Top,4.1,afton alps,mn,0,1,
+Operating,Chair 16,Double,1000,210,900,400,Top,2.3,afton alps,mn,0,1,
+Operating,Chair 17,Double,1000,240,1347,400,Top,3.4,afton alps,mn,0,1,
+Operating,Chair 18,Double,1000,70,540,340,Top,1.6,afton alps,mn,0,1,
+Operating,Chair 4,Triple,1800,224,972,380,Bottom,2.6,alpine valley,mi,0,1,
+Operating,Chair 5,Triple,1235,179,1082,415,Bottom,2.6,alpine valley,mi,0,1,
+Operating,Chair 2,Double,1000,173,1110,465,Bottom,2.4,alpine valley,mi,0,1,
+Operating,Chair 3,Double,1000,173,1110,465,Bottom,2.4,alpine valley,mi,0,1,
+Operating,Chair 7,Double,1000,177,865,465,Bottom,1.9,alpine valley,mi,0,1,
+Operating,Chair 8,Quad,1961,,,,Bottom,,alpine valley,mi,0,1,
+Operating,Sunnyside,High Speed Six,2800,799,4719,1000,Bottom,4.7,alta,ut,1,0,82
+Operating,Collins Stage 1,High Speed Quad,2400,741,2727,1000,Top,2.7,alta,ut,1,0,82
+Operating,Collins Stage 2,High Speed Quad,2400,1099,3569,1000,Bottom,3.6,alta,ut,1,0,82
+Operating,Sugarloaf,High Speed Quad,2400,1371,5042,1000,Bottom,5,alta,ut,1,0,82
+Operating,Supreme,High Speed Quad,2400,1224,5134,1000,Bottom,5.1,alta,ut,1,0,82
+Operating,Albion,Double,1000,867,5150,475,Bottom,10.8,alta,ut,1,0,82
+Operating,Wildcat,Double,1000,1226,4268,500,Bottom,8.5,alta,ut,1,0,82
+Operating,Snowpine,Quad,800,85,487,300,Top,1.6,alta,ut,1,0,82
+Operating,Rustler,Triple,600,85,475,300,Bottom,1.6,alta,ut,1,0,82
+Operating,Lakeview,Double,1096,,,,Top,,alta sierra,ca,0,0,
+Operating,Ridge,Double,1096,,,,Top,,alta sierra,ca,0,0,
+Operating,Glacier Bowl Express,High Speed Quad,2400,1401,4307,1000,Bottom,4.3,alyeska,ak,1,0,68
+Operating,Chair 7,Quad,2000,289,2815,500,Top,5.6,alyeska,ak,1,0,68
+Operating,Ted's Express,High Speed Quad,1800,1348,4455,984,Bottom,4.5,alyeska,ak,1,0,68
+Standing,Tanaka,Double,1200,530,1658,500,Bottom,3.3,alyeska,ak,1,0,68
+Operating,Bear Cub,Quad,1200,288,1156,300,Top,3.9,alyeska,ak,1,0,68
+Operating,Tram,Tram 60,800,2028,4699,2000,Bottom,2.3,alyeska,ak,1,0,68
+Operating,Little America,Quad,1961,,,,Bottom,,andes tower hills,mn,0,0,
+Operating,Hollywood,Triple,1618,,,,Top,,andes tower hills,mn,0,0,
+Operating,Milky Way,Triple,1618,,,,Top,,andes tower hills,mn,0,0,
+Operating,Southwest Flyer,High Speed Quad,2400,1140,5020,1000,Top,5,angel fire,nm,0,0,62
+Operating,Chile Express,High Speed Quad,1800,2067,10992,1200,Top,9.2,angel fire,nm,0,0,62
+Operating,Dreamcatcher,Double,1200,150,833,300,Top,2.8,angel fire,nm,0,0,62
+Operating,Lift 2,Double,700,385,1900,450,Bottom,4.2,angel fire,nm,0,0,62
+Operating,Lift 3,Double,570,447,2204,450,Top,4.9,angel fire,nm,0,0,62
+Operating,Bighorn,Double,1200,960,3816,,Bottom,,antelope butte,wy,0,0,
+Operating,Deer Park,Double,900,152,,,Bottom,,antelope butte,wy,0,0,
+Operating,Lenawee Express,High Speed Six,2400,1018,4002,1000,Bottom,4,arapahoe basin,co,1,0,83
+Operating,Black Mountain Express,High Speed Quad,2000,717,2875,1000,Top,2.9,arapahoe basin,co,1,0,83
+Operating,Zuma,Quad,1900,1113,4117,450,Top,9.2,arapahoe basin,co,1,0,83
+Operating,Beavers,Quad,1800,1501,4123,450,Top,9.2,arapahoe basin,co,1,0,83
+Operating,Pallavicini,Double,1200,1325,3512,500,Bottom,7,arapahoe basin,co,1,0,83
+Operating,Molly Hogan,Quad,800,57,398,350,Top,1.1,arapahoe basin,co,1,0,83
+Operating,Chair 1,Double,1200,662,2364,400,Bottom,5.9,arctic valley,ak,0,0,
+Operating,Chair 2,Double,1200,1214,4544,500,Bottom,9.1,arctic valley,ak,0,0,
+Operating,Exhibition,High Speed Quad,1800,1914,8793,1100,Top,8,aspen highlands,co,1,0,124
+Operating,Loge Peak,High Speed Quad,1800,1620,6610,1100,Bottom,6,aspen highlands,co,1,0,124
+Operating,Cloud Nine,High Speed Quad,1200,1116,4743,1100,Top,4.3,aspen highlands,co,1,0,124
+Operating,Thunderbowl,Triple,1200,1450,4194,500,Top,8.4,aspen highlands,co,1,0,124
+Operating,Deep Termerity,Triple,1085,1708,3683,500,Top,7.4,aspen highlands,co,1,0,124
+Operating,Five Trees,Double,600,743,4171,525,Bottom,7.9,aspen highlands,co,1,0,124
+Operating,Ajax Express,High Speed Quad,2400,1120,4689,1000,Top,4.7,aspen mountain,co,1,0,124
+Operating,Silver Queen Gondola,Gondola 6,2000,3264,13216,1000,Top,13.2,aspen mountain,co,1,0,124
+Operating,Ruthies,High Speed Triple,1800,1358,5511,1100,Top,5,aspen mountain,co,1,0,124
+Operating,Gent's Ridge,Quad,1750,1079,5440,450,Top,12.1,aspen mountain,co,1,0,124
+Operating,Little Nell,Quad,1700,550,2208,500,Top,4.4,aspen mountain,co,1,0,124
+Operating,FIS,Double,1200,602,1519,500,Top,3,aspen mountain,co,1,0,124
+Operating,Shadow Mountain,Double,1071,1393,3625,500,Bottom,7.3,aspen mountain,co,1,0,124
+Operating,Bell Mountain,Double,1000,2158,6803,500,Top,13.6,aspen mountain,co,1,0,124
+Operating,Village Express,High Speed Six,3000,2174,10074,1050,Top,9.6,aspen snowmass,co,1,0,124
+Operating,Elk Camp Gondola,Gondola 8,2800,1365,8652,1000,Top,8.7,aspen snowmass,co,1,0,124
+Operating,Alpine Springs,High Speed Quad,2600,1529,7200,1100,Top,6.5,aspen snowmass,co,1,0,124
+Operating,Coney Glade,High Speed Quad,2400,1224,5056,1000,Bottom,5.1,aspen snowmass,co,1,0,124
+Operating,Sam's Knob,High Speed Quad,2400,1212,3973,1000,Top,4,aspen snowmass,co,1,0,124
+Operating,Big Burn,High Speed Six,2200,1982,7639,1100,Top,6.9,aspen snowmass,co,1,0,124
+Operating,Sheer Bliss,High Speed Quad,2000,2212,9242,1000,Top,9.2,aspen snowmass,co,1,0,124
+Operating,High Alpine,High Speed Quad,1800,1509,5256,1000,Bottom,5.3,aspen snowmass,co,1,0,124
+Operating,Two Creeks,High Speed Quad,1775,1710,9835,1100,Top,8.9,aspen snowmass,co,1,0,124
+Operating,Elk Camp,High Speed Quad,1600,1554,7605,1100,Top,6.9,aspen snowmass,co,1,0,124
+Operating,Assay Hill,Quad,1200,210,1480,400,Bottom,3.7,aspen snowmass,co,1,0,124
+Operating,Meadows,Quad,1200,125,1263,300,Bottom,4.2,aspen snowmass,co,1,0,124
+Operating,Campground,Double,664,1435,4730,550,Top,8.6,aspen snowmass,co,1,0,124
+Operating,Sky Cab,Pulse Gondola,530,160,1088,1000,Top,1.1,aspen snowmass,co,1,0,124
+Operating,Flying Bear,High Speed Quad,2800,1467,5215,1000,Top,5.2,attitash,nh,0,1,
+Operating,Flying Yankee,High Speed Quad,2800,883,3070,1070,Bottom,2.9,attitash,nh,0,1,
+Operating,Abenaki,Quad,2400,1020,3825,460,Bottom,8.3,attitash,nh,0,1,
+Operating,Progression,Quad,1800,637,2708,450,Bottom,6,attitash,nh,0,1,
+Operating,Kachina,Triple,1800,512,2200,,Bottom,,attitash,nh,0,1,
+Operating,Summit,Triple,1500,1672,6205,500,Bottom,12.4,attitash,nh,0,1,
+Operating,Learning Center,Triple,1200,263,1210,350,Bottom,3.5,attitash,nh,0,1,
+Operating,F,Quad,2200,380,1980,450,Bottom,4.4,bear creek,pa,0,0,
+Operating,A,Quad,1800,435,2661,450,Bottom,5.9,bear creek,pa,0,0,
+Operating,B,Quad,1700,460,2740,450,Bottom,6.1,bear creek,pa,0,0,
+Operating,E,Triple,1618,,,,Bottom,,bear creek,pa,0,0,
+Operating,9 Bear Mountain Express,High Speed Quad,3000,1310,5635,1000,Top,5.6,bear mountain,ca,1,0,
+Operating,6 Access Express,High Speed Quad,2400,546,3638,900,Bottom,4,bear mountain,ca,1,0,
+Operating,5 Gold Rush,Quad,2400,419,1660,450,Top,3.7,bear mountain,ca,1,0,
+Operating,7 Inspiration,Triple,1200,83,585,250,Bottom,2.3,bear mountain,ca,1,0,
+Operating,8 Bear Peak,Triple,1200,1130,3630,500,Top,7.3,bear mountain,ca,1,0,
+Operating,3 Showdown,Double,1150,336,1775,380,Bottom,4.7,bear mountain,ca,1,0,
+Operating,4 Silver Mountain,Double,1139,932,3000,500,Bottom,6,bear mountain,ca,1,0,
+Operating,2 Hibernation,Double,1000,519,2896,400,Bottom,7.2,bear mountain,ca,1,0,
+Operating,Mokelumne Express,High Speed Six,3000,730,3100,1000,Top,3.1,bear valley,ca,0,0,67
+Operating,Polar Express,High Speed Quad,2400,953,4400,1000,Top,4.4,bear valley,ca,0,0,67
+Operating,Pooh Bear,Triple,2000,735,2770,500,Top,5.5,bear valley,ca,0,0,67
+Operating,Kuma,Triple,1900,733,3065,500,Top,6.1,bear valley,ca,0,0,67
+Operating,Cub,Double,1200,200,1450,,Bottom,,bear valley,ca,0,0,67
+Operating,Grizzly,Double,1200,1267,2918,,Top,,bear valley,ca,0,0,67
+Operating,Koala,Double,1200,500,1816,450,Bottom,4,bear valley,ca,0,0,67
+Operating,Super Cub,Double,1100,253,1524,350,Bottom,4.4,bear valley,ca,0,0,67
+Operating,Centennial Express,Chondola 6/10,3400,2102,7876,1000,Top,7.9,beaver creek,co,0,1,141
+Operating,Cinch Express,High Speed Quad,2800,1458,6170,984,Top,6.3,beaver creek,co,0,1,141
+Operating,Grouse Mountain Express,High Speed Quad,2800,1811,5420,984,Top,5.5,beaver creek,co,0,1,141
+Operating,Strawberry Park Express,High Speed Quad,2800,1752,6840,984,Top,7,beaver creek,co,0,1,141
+Operating,Birds of Prey Express,High Speed Quad,2600,2158,6453,1000,Top,6.5,beaver creek,co,0,1,141
+Operating,Larkspur Express,High Speed Quad,2600,1524,5633,1000,Top,5.6,beaver creek,co,0,1,141
+Operating,Upper Beaver Creek Mountain Express,High Speed Quad,2600,1482,8591,1000,Top,8.6,beaver creek,co,0,1,141
+Operating,Bachelor Express,High Speed Quad,2400,1255,5957,1000,Top,6,beaver creek,co,0,1,141
+Operating,Lower Beaver Creek Mountain Express,High Speed Quad,2400,905,6416,1000,Top,6.4,beaver creek,co,0,1,141
+Operating,McCoy Park Express,High Speed Quad,2400,921,6150,1000,Top,6.2,beaver creek,co,0,1,141
+Operating,Rose Bowl Express,High Speed Quad,2400,1326,4714,1000,Top,4.7,beaver creek,co,0,1,141
+Operating,Haymeadow Express,Gondola 8,2200,336,1671,600,Top,2.8,beaver creek,co,0,1,141
+Operating,Red Buffalo Express,High Speed Quad,2000,816,4607,1000,Top,4.6,beaver creek,co,0,1,141
+Operating,Reunion,Quad,1800,480,2766,450,Top,6.1,beaver creek,co,0,1,141
+Operating,Riverfront Express,Gondola 8,1600,63,2210,800,Top,2.8,beaver creek,co,0,1,141
+Operating,Arrow Bahn Express,High Speed Quad,1200,1713,7809,1000,Top,7.8,beaver creek,co,0,1,141
+Operating,Highlands,Double,1096,196,,,Top,4,beaver creek,co,0,1,141
+Operating,Elkhorn,Triple,1618,,,,Top,,beaver creek,co,0,1,141
+Operating,Little Beaver,Triple,1500,385,1785,400,Bottom,4.5,beaver mountain,ut,0,0,
+Operating,Beaver Face,Double,800,1060,4200,,Bottom,,beaver mountain,ut,0,0,
+Operating,Harry's Dream,Triple,1618,,,,Bottom,,beaver mountain,ut,0,0,
+Operating,Marge's,Triple,1618,,,,Bottom,,beaver mountain,ut,0,0,
+Operating,Belleayre Express,High Speed Quad,2400,1138,5196,1000,Bottom,5.2,belleayre,ny,0,0,
+Operating,Lift 8,Quad,2400,945,3635,450,Bottom,8.1,belleayre,ny,0,0,
+Operating,Catskill Thunder,Gondola 8,2000,1339,6391,1000,Bottom,6.4,belleayre,ny,0,0,
+Operating,Lightning,Quad,1997,447,3512,450,Bottom,7.8,belleayre,ny,0,0,
+Operating,Lift 7,Triple,1800,806,2720,500,Bottom,5.4,belleayre,ny,0,0,
+Operating,Summit,Quad,2400,936,3145,500,Bottom,6.3,berkshire east,ma,0,0,
+Operating,Wilderness Peak,Quad,2000,,3000,,Bottom,,berkshire east,ma,0,0,
+Operating,Mountain Top,Triple,1500,,,,Bottom,,berkshire east,ma,0,0,
+Operating,Top Notch,Double,1000,,800,,Bottom,,berkshire east,ma,0,0,
+Operating,Blue Heron,Quad,1800,219,1618,400,Bottom,4,big boulder,pa,0,1,
+Operating,Harmony,Quad,1800,386,1980,400,Bottom,5,big boulder,pa,0,1,
+Operating,Big Boulder,Triple,1800,374,1550,450,Bottom,3.4,big boulder,pa,0,1,
+Operating,Tannenbaum,Double,1096,,,,Bottom,,big boulder,pa,0,1,
+Operating,1,Double,1200,235,2175,450,Bottom,4.8,big powderhorn,mi,0,0,
+Operating,2,Double,1200,352,2548,450,Bottom,5.7,big powderhorn,mi,0,0,
+Operating,3,Double,1200,374,2436,450,Bottom,5.4,big powderhorn,mi,0,0,
+Operating,4,Double,1200,390,1670,,Bottom,,big powderhorn,mi,0,0,
+Operating,5,Double,1200,402,2097,450,Bottom,4.7,big powderhorn,mi,0,0,
+Operating,6,Double,1140,418,2210,,Bottom,,big powderhorn,mi,0,0,
+Operating,8,Double,1100,359,2400,450,Bottom,5.3,big powderhorn,mi,0,0,
+Operating,9,Double,1000,331,2457,375,Bottom,6.6,big powderhorn,mi,0,0,
+Operating,7,Double,800,162,1610,300,Bottom,5.4,big powderhorn,mi,0,0,
+Operating,Ramcharger 8,High Speed Eight,3600,1160,4461,1000,Top,4.5,big sky,mt,1,0,110
+Operating,Swift Current 6,High Speed Six,3000,1657,8302,1180,Top,7,big sky,mt,1,0,110
+Operating,Thunder Wolf,High Speed Quad,2400,1728,5802,1000,Bottom,5.8,big sky,mt,1,0,110
+Operating,Southern Comfort,High Speed Quad,1800,1250,6055,1000,Top,6.1,big sky,mt,1,0,110
+Operating,Powder Seeker,High Speed Six,1800,807,2701,1000,Bottom,2.7,big sky,mt,1,0,110
+Operating,Six Shooter,High Speed Six,1800,1828,8700,1050,Bottom,8.3,big sky,mt,1,0,110
+Operating,Iron Horse,Quad,1800,921,3215,450,Bottom,7.1,big sky,mt,1,0,110
+Operating,Pony Express,Triple,1800,573,3115,500,Top,6.2,big sky,mt,1,0,110
+Operating,Lewis & Clark,High Speed Quad,1600,715,4145,886,Top,4.7,big sky,mt,1,0,110
+Operating,Shedhorn 4,High Speed Quad,1600,1487,4738,1000,Top,4.7,big sky,mt,1,0,110
+Operating,Derringer,Quad,1500,429,2544,425,Bottom,6,big sky,mt,1,0,110
+Operating,Lone Tree,Quad,1500,650,1550,450,Bottom,3.4,big sky,mt,1,0,110
+Operating,Challenger,Triple,1232,1640,4380,500,Bottom,8.9,big sky,mt,1,0,110
+Operating,Explorer,Double,1200,622,3770,500,Bottom,,big sky,mt,1,0,110
+Operating,Cabin,Triple,1200,136,1691,500,Top,3.4,big sky,mt,1,0,110
+Operating,Sacajawea,Triple,1200,538,2638,500,Top,5.3,big sky,mt,1,0,110
+Operating,Little Thunder,Double,922,71,,,Bottom,,big sky,mt,1,0,110
+Operating,Highlands,Triple,509,967,3850,500,Bottom,7.7,big sky,mt,1,0,110
+Operating,Jayhawk,Triple,486,207,2554,500,Top,5.1,big sky,mt,1,0,110
+Operating,Headwaters,Double,375,686,1421,375,Bottom,3.8,big sky,mt,1,0,110
+Operating,Lone Peak Tram,Tram 15,200,1450,2828,1180,Bottom,2.4,big sky,mt,1,0,110
+Operating,Stagecoach,Double,1096,,,,Top,,big sky,mt,1,0,110
+Operating,White Otter,Double,1096,210,2200,,Bottom,7.5,big sky,mt,1,0,110
+Operating,Cascade,Triple,1618,448,3295,,Top,,big sky,mt,1,0,110
+Operating,Dakota,Triple,1618,,,,Bottom,,big sky,mt,1,0,110
+Operating,Lone Moose,Triple,1618,1284,4000,,Bottom,6.2,big sky,mt,1,0,110
+Operating,Apollo,Triple,1500,229,1348,500,Bottom,2.7,bigrock,me,0,0,
+Operating,Gemini,Double,1000,,,,,,bigrock,me,0,0,
+Operating,Snow Flyer,High Speed Quad,2400,319,1812,1000,Bottom,1.8,bittersweet,mi,0,0,
+Operating,Sweet Express,High Speed Quad,2000,,,,Bottom,,bittersweet,mi,0,0,
+Operating,Hawthorne,Triple,1800,249,1070,400,Bottom,2.7,bittersweet,mi,0,0,
+Operating,Creeping Myrtle,Double,1096,,,,Bottom,,bittersweet,mi,0,0,
+Operating,Chickory,Triple,1618,,,,Bottom,,bittersweet,mi,0,0,
+Operating,Sweet Pea,Triple,1618,,,,Bottom,,bittersweet,mi,0,0,
+Operating,Summit,Triple,1200,1136,4385,500,Bottom,8.8,black mountain maine,me,0,0,
+Operating,Novice,Double,1000,,1100,,Bottom,,black mountain maine,me,0,0,
+Operating,East Bowl,Triple,1500,698,3023,450,Bottom,6.7,black mountain nh,nh,0,0,
+Operating,Summit,Double,900,1100,4360,500,Bottom,8.7,black mountain nh,nh,0,0,
+Operating,Crystal,Double,1096,1000,,,Top,,blacktail mountain,mt,0,0,
+Operating,Thunderhead,Double,1096,1440,,,Top,,blacktail mountain,mt,0,0,
+Operating,Olympic,Triple,1618,550,,,Bottom,,blacktail mountain,mt,0,0,
+Operating,Expressway,Triple,1300,751,2705,400,Top,,blue knob,pa,0,0,
+Operating,Route 66,Double,1000,1000,4900,,Top,,blue knob,pa,0,0,
+Operating,High Hopes,Double,1000,971,4160,,Top,,blue knob,pa,0,0,
+Operating,Beginners,Triple,800,,1400,400,Top,3.5,blue knob,pa,0,0,
+Operating,Challenge Express,High Speed Six,3000,1054,4299,1000,Bottom,4.3,blue mountain,pa,1,0,
+Operating,Main Street Express,High Speed Six,3000,980,4526,1000,Bottom,4.5,blue mountain,pa,1,0,
+Operating,Comet Express,High Speed Quad,2400,1083,4487,1000,Bottom,4.5,blue mountain,pa,1,0,
+Operating,Valley School,Triple,1200,120,898,300,Bottom,3,blue mountain,pa,1,0,
+Operating,Vista,Double,900,269,1242,465,,2.7,blue mountain,pa,1,0,
+Operating,1 Deer Point Express,High Speed Quad,2400,888,3800,1000,Bottom,3.8,bogus basin,id,0,0,
+Operating,2 Morning Star Express,High Speed Quad,2400,635,2960,1000,Top,3,bogus basin,id,0,0,
+Operating,3 Superior Express,High Speed Quad,2400,1448,3923,1000,Top,3.9,bogus basin,id,0,0,
+Operating,6 Pine Creek Express,High Speed Quad,2400,1792,5302,1000,Top,5.3,bogus basin,id,0,0,
+Operating,4 Showcase,Double,1200,702,3470,500,Bottom,6.9,bogus basin,id,0,0,
+Operating,5 Bitteroot,Double,1200,523,2566,450,Top,5.7,bogus basin,id,0,0,
+Operating,7 Coach,Double,1096,,,,Bottom,,bogus basin,id,0,0,
+Operating,Timberline,Quad,2160,940,3790,465,Bottom,8.2,bolton valley,vt,0,0,63
+Operating,Vista,Quad,1400,955,4389,450,Bottom,9.8,bolton valley,vt,0,0,63
+Operating,Mid Mountain,Double,1000,312,1798,465,Bottom,3.9,bolton valley,vt,0,0,63
+Operating,Wilderness,Double,1000,963,4948,500,Bottom,9.9,bolton valley,vt,0,0,63
+Operating,Snowflake,Double,800,250,1230,350,Bottom,3.5,bolton valley,vt,0,0,63
+Operating,Accelerator,High Speed Quad,2800,532,2525,886,Bottom,2.9,boreal,ca,0,0,
+Operating,California Cruiser,Quad,2400,124,901,300,Bottom,3,boreal,ca,0,0,
+Operating,Castle Peak,Quad,1900,185,1253,300,Bottom,4.2,boreal,ca,0,0,
+Operating,Flying Dutchman,Triple,1800,437,2388,450,Top,5.3,boreal,ca,0,0,
+Operating,49er,Triple,1618,,,,Top,,boreal,ca,0,0,
+Operating,Cedar Ridge,Triple,1618,,,,Bottom,,boreal,ca,0,0,
+Operating,Blue,Double,1200,406,1971,420,Bottom,4.7,bousquet mountain,ma,0,0,
+Operating,Yellow,Triple,1200,,,,Bottom,,bousquet mountain,ma,0,0,
+Operating,Heather Express,High Speed Quad,3000,500,2850,1000,Bottom,2.9,boyne highlands,mi,1,0,
+Operating,Challenger,Quad,2400,360,1639,400,Top,4.1,boyne highlands,mi,1,0,
+Operating,Camelot,Triple,1800,200,1488,400,Bottom,3.7,boyne highlands,mi,1,0,
+Operating,MacGully,Triple,1500,504,2920,,Top,,boyne highlands,mi,1,0,
+Operating,Amy's,Quad,1961,,,,Top,,boyne highlands,mi,1,0,
+Operating,North Face,Quad,1961,,,,Top,,boyne highlands,mi,1,0,
+Operating,Interconnect,Triple,1618,,,,Top,,boyne highlands,mi,1,0,
+Operating,Valley,Triple,1618,,,,Top,,boyne highlands,mi,1,0,
+Operating,Mountain Express,High Speed Six,3600,438,1941,1000,Top,1.9,boyne mountain,mi,1,0,
+Operating,Disciples 8,High Speed Eight,3200,413,2684,1000,Bottom,2.7,boyne mountain,mi,1,0,
+Operating,Ramshead,Quad,2400,351,2159,400,Top,5.4,boyne mountain,mi,1,0,
+Operating,Meadows,Quad,1800,390,2251,450,Bottom,5,boyne mountain,mi,1,0,
+Operating,Alpine,Double,1096,,,,Bottom,,boyne mountain,mi,1,0,
+Operating,Hemlock,Double,1096,,,,Top,,boyne mountain,mi,1,0,
+Operating,Superbowl,Quad,1961,,,,Top,,boyne mountain,mi,1,0,
+Operating,Victor,Quad,1961,,,,Top,,boyne mountain,mi,1,0,
+Operating,Boyneland,Triple,1618,,,,Bottom,,boyne mountain,mi,1,0,
+Operating,Colorado SuperChair,High Speed Six,3600,1325,6194,1000,Top,6.2,breckenridge,co,0,1,140
+Operating,Quicksilver Super6,High Speed Six,3600,632,5577,1100,Top,5.1,breckenridge,co,0,1,140
+Operating,Falcon SuperChair,High Speed Six,3000,1400,5787,1000,Top,5.8,breckenridge,co,0,1,140
+Operating,Independence SuperChair,High Speed Six,3000,1320,7149,1100,Top,6.5,breckenridge,co,0,1,140
+Operating,Kensho SuperChair,High Speed Six,3000,1502,5902,1000,Bottom,5.9,breckenridge,co,0,1,140
+Operating,BreckConnect Gondola,Gondola 8,2800,391,7595,1000,Top,7.6,breckenridge,co,0,1,140
+Operating,Beaver Run SuperChair,High Speed Quad,2800,1590,9048,1000,Top,9,breckenridge,co,0,1,140
+Operating,Mercury SuperChair,High Speed Quad,2800,1466,7559,1100,Top,6.9,breckenridge,co,0,1,140
+Operating,Peak 8 SuperConnect,High Speed Quad,2800,1424,8377,1000,Top,8.4,breckenridge,co,0,1,140
+Operating,Rocky Mountain SuperChair,High Speed Quad,2800,1214,5455,1100,Top,5,breckenridge,co,0,1,140
+Operating,Freedom SuperChair,High Speed Quad,2400,1036,5727,1000,Top,5.7,breckenridge,co,0,1,140
+Operating,Rip's Ride,High Speed Quad,2000,306,1711,800,Top,2.1,breckenridge,co,0,1,140
+Operating,Zendo,Quad,2000,338,2582,453,Top,5.7,breckenridge,co,0,1,140
+Operating,Imperial SuperChair,High Speed Quad,1800,939,2714,1000,Bottom,2.7,breckenridge,co,0,1,140
+Operating,A,Triple,1800,621,4684,450,Top,10.4,breckenridge,co,0,1,140
+Operating,5,Double,1200,711,3583,500,Top,7.2,breckenridge,co,0,1,140
+Operating,6,Double,1200,990,3400,500,Bottom,6.8,breckenridge,co,0,1,140
+Operating,E,Double,1200,940,3075,500,Top,6.2,breckenridge,co,0,1,140
+Operating,Snowflake,Double,1200,631,5322,510,Bottom,10.4,breckenridge,co,0,1,140
+Operating,C,Double,1130,1253,5796,500,Top,11.6,breckenridge,co,0,1,140
+Operating,Rosebrook Summit,High Speed Quad,2800,556,2455,1100,Bottom,2.2,bretton woods,nh,0,0,76
+Operating,Bethlehem Express,High Speed Quad,2500,1010,4900,1000,Bottom,4.9,bretton woods,nh,0,0,76
+Operating,West Mountain Express,High Speed Quad,2400,826,3802,1100,Bottom,3.5,bretton woods,nh,0,0,76
+Operating,Zephyr Express,High Speed Quad,2000,1063,4160,1070,Bottom,3.9,bretton woods,nh,0,0,76
+Operating,Fabyan's Express,Triple,1790,825,3396,470,Bottom,7.2,bretton woods,nh,0,0,76
+Operating,Learning Center,Quad,1700,89,828,320,Bottom,2.6,bretton woods,nh,0,0,76
+Operating,Skyway,Gondola 8,1500,1298,5861,1181,Bottom,5,bretton woods,nh,0,0,76
+Operating,Navajo Express,High Speed Quad,2400,622,4165,1000,Top,4.2,brian head,ut,0,0,59
+Operating,Giant Steps Express,High Speed Quad,2000,,,,Top,,brian head,ut,0,0,59
+Operating,Roulette,Triple,1900,743,3080,500,Top,6.2,brian head,ut,0,0,59
+Operating,Alpen Glow,Triple,1800,550,2366,500,Top,4.7,brian head,ut,0,0,59
+Operating,Black Foot,Triple,1800,425,2240,475,Top,4.7,brian head,ut,0,0,59
+Operating,The Dunes,Triple,1800,542,2522,475,Top,5.3,brian head,ut,0,0,59
+Operating,Wildflower,Triple,1800,579,2887,500,Top,5.8,brian head,ut,0,0,59
+Operating,Pioneer,Double,1200,139,1015,300,Bottom,3.4,brian head,ut,0,0,59
+Operating,Sunnyside,Quad,2400,660,3715,450,Top,8.3,bridger bowl,mt,0,0,49
+Operating,Alpine,Triple,1800,831,4362,550,Bottom,7.9,bridger bowl,mt,0,0,49
+Operating,Bridger,Triple,1800,1427,3821,500,Bottom,7.6,bridger bowl,mt,0,0,49
+Operating,Pierre's Knob,Triple,1800,1175,4257,500,Bottom,8.5,bridger bowl,mt,0,0,49
+Operating,Powder Park,Triple,1800,863,3619,550,Bottom,6.6,bridger bowl,mt,0,0,49
+Operating,Virginia City,Triple,1800,517,3840,500,Top,7.7,bridger bowl,mt,0,0,49
+Operating,Schlasman's,Double,1096,,,,Bottom,,bridger bowl,mt,0,0,49
+Operating,Snowflake,Triple,1618,,,,Bottom,,bridger bowl,mt,0,0,49
+Operating,Crest Express,High Speed Quad,2800,1196,5777,1000,Top,5.8,brighton,ut,1,0,67
+Operating,Great Western Express,High Speed Quad,2400,1730,6620,1000,Bottom,6.6,brighton,ut,1,0,67
+Operating,Milly Express,High Speed Quad,2400,1109,3712,1000,Bottom,3.7,brighton,ut,1,0,67
+Operating,Snake Creek Express,High Speed Quad,2400,996,4635,1000,,4.6,brighton,ut,1,0,67
+Operating,Explorer,Triple,800,140,850,400,Bottom,2.1,brighton,ut,1,0,67
+Operating,Majestic,Quad,1961,,,,Top,,brighton,ut,1,0,67
+Operating,Comet Express,High Speed Quad,2400,1106,4103,1000,Top,4.1,bristol mountain,ny,0,0,
+Operating,Galaxy Express,High Speed Quad,2400,1108,4200,1000,Top,4.2,bristol mountain,ny,0,0,
+Operating,Morning Star,Quad,2400,543,3110,425,Top,7.3,bristol mountain,ny,0,0,
+Operating,Rocket,Triple,1800,1197,4005,450,Bottom,8.9,bristol mountain,ny,0,0,
+Operating,Sunset,Double,1000,400,1771,450,Bottom,3.9,bristol mountain,ny,0,0,
+Operating,Sun Mountain Express,High Speed Quad,2400,1302,5444,1000,Bottom,5.4,bromley,vt,0,0,
+Operating,Blue Ribbon,Quad,1800,926,3200,450,Bottom,7.1,bromley,vt,0,0,
+Operating,Alpine,Double,1200,672,2593,500,Bottom,5.2,bromley,vt,0,0,
+Operating,East Meadow,Double,1200,385,2140,460,Bottom,4.7,bromley,vt,0,0,
+Operating,Sun,Double,1200,1213,4803,500,Bottom,9.6,bromley,vt,0,0,
+Operating,Plaza,Double,1000,321,1920,450,Bottom,4.3,bromley,vt,0,0,
+Operating,Blue Bird Express,High Speed Quad,2600,1576,5440,1000,Bottom,5.4,brundage,id,0,0,
+Operating,Bear,Triple,1800,612,2388,450,Bottom,5.3,brundage,id,0,0,
+Operating,Lakeview,Triple,1800,805,3175,450,Top,7.1,brundage,id,0,0,
+Operating,Centennial,Triple,1300,1653,6130,500,Top,12.3,brundage,id,0,0,
+Operating,Easy Street,Triple,1200,117,705,300,Bottom,2.4,brundage,id,0,0,
+Operating,2,Quad,2400,266,1113,375,Bottom,3,buck hill,mn,0,0,
+Operating,4,Quad,2400,251,1194,360,Bottom,3.3,buck hill,mn,0,0,
+Operating,5,Triple,1500,145,1020,350,Bottom,2.9,buck hill,mn,0,0,
+Operating,Continental Divide,Triple,1800,344,1257,450,Bottom,2.8,buena vista,mn,0,0,
+Operating,Sunnyside,Double,1380,231,1059,450,Bottom,2.4,buena vista,mn,0,0,
+Operating,Bear Track,Double,1200,146,663,450,Bottom,1.5,buena vista,mn,0,0,
+Operating,Tamarack,Double,1200,465,2718,450,Bottom,6,buffalo ski center,ny,0,0,
+Operating,Sitzmarker,Double,1096,,,,Top,,buffalo ski center,ny,0,0,
+Operating,Sherburne Express,High Speed Quad,2400,563,3807,1000,Top,3.8,burke mountain,vt,0,0,
+Operating,Mid Burke Express,High Speed Quad,2200,1581,5890,1000,Top,5.9,burke mountain,vt,0,0,
+Operating,Summit Express,High Speed Quad,1800,1829,9581,1100,Top,8.7,buttermilk,co,0,0,
+Operating,Tiehack Express,High Speed Quad,1800,1663,6813,1000,Top,6.8,buttermilk,co,0,0,
+Operating,Panda Peak,Double,1200,105,1035,480,Top,2.2,buttermilk,co,0,0,
+Operating,West Buttermilk Express,High Speed Quad,1200,1189,5743,1000,Top,5.7,buttermilk,co,0,0,
+Operating,North Peak,Quad,2130,419,1720,400,Bottom,4.3,caberfae peaks,mi,0,0,
+Operating,South Peak,Triple,1800,367,1418,400,Bottom,3.5,caberfae peaks,mi,0,0,
+Operating,Vista,Triple,1417,429,1638,450,Bottom,3.6,caberfae peaks,mi,0,0,
+Operating,East Peak,Triple,1315,374,2066,360,Bottom,5.7,caberfae peaks,mi,0,0,
+Operating,Triple,Triple,1600,826,3877,450,,8.6,camden snowbowl,me,0,0,
+Operating,Double,Double,900,228,1123,401,,2.8,camden snowbowl,me,0,0,
+Operating,Black Bear 6,High Speed Six,3000,667,2654,1000,Top,2.7,camelback,pa,1,0,
+Operating,Stevenson Express,High Speed Quad,2400,797,2686,886,Bottom,3,camelback,pa,1,0,
+Operating,Sunbowl,Quad,2368,128,1116,450,Bottom,2.5,camelback,pa,1,0,
+Operating,Meadows,Triple,1800,378,1707,400,Bottom,4.3,camelback,pa,1,0,
+Operating,Raceway,Triple,1800,451,1771,450,Bottom,3.9,camelback,pa,1,0,
+Operating,Cleopatra,Triple,1600,645,2414,,Bottom,,camelback,pa,1,0,
+Operating,Bailey,Double,1200,654,2531,425,Bottom,6,camelback,pa,1,0,
+Operating,Marc Antony,Double,1200,700,2481,450,Bottom,5.5,camelback,pa,1,0,
+Operating,Glen,Double,1096,,,,Bottom,,camelback,pa,1,0,
+Operating,Peabody Express,High Speed Quad,2500,1318,5251,1000,Bottom,5.3,cannon mountain,nh,0,0,
+Operating,Cannonball Express,Quad,2400,880,2460,450,Top,5.5,cannon mountain,nh,0,0,
+Operating,Tuckerbrook,Quad,2400,281,1324,400,Bottom,3.3,cannon mountain,nh,0,0,
+Operating,Zoomer,Triple,1800,630,1640,425,Bottom,3.9,cannon mountain,nh,0,0,
+Operating,Eagle Cliff,Triple,1500,,,,Bottom,,cannon mountain,nh,0,0,
+Operating,Brookside,Triple,1400,105,790,350,Bottom,2.3,cannon mountain,nh,0,0,
+Operating,Mittersill,Double,1000,1280,4025,500,Bottom,8.1,cannon mountain,nh,0,0,
+Operating,Aerial Tram,Tram 70,700,2021,5349,1500,Bottom,3.6,cannon mountain,nh,0,0,
+Operating,Quad,Quad,2100,250,1325,400,Bottom,3.3,cannonsburg,mi,0,0,
+Operating,Double,Double,1200,182,1240,465,Bottom,2.7,cannonsburg,mi,0,0,
+Operating,Triple,Triple,1200,485,2748,420,Bottom,6.5,cannonsburg,mi,0,0,
+Operating,Promenade,Triple,1800,529,2154,500,Bottom,4.3,catamount ma,ny,0,0,
+Operating,Catamount,Quad,1961,,,,Bottom,,catamount ma,ny,0,0,
+Operating,Ridge,Quad,1961,,,,Bottom,,catamount ma,ny,0,0,
+Operating,Glade,Triple,1618,,,,Bottom,,catamount ma,ny,0,0,
+Operating,Meadows,Triple,1618,,,,Bottom,,catamount ma,ny,0,0,
+Operating,Gateway,Triple,1618,,,,Top,,cherry peak,ut,0,0,
+Operating,Summit,Triple,1618,,,,Top,,cherry peak,ut,0,0,
+Operating,Vista,Triple,1618,,,,Top,,cherry peak,ut,0,0,
+Operating,4 Park,Triple,1800,536,2458,350,Top,7,china peak,ca,0,0,
+Operating,5 Peak,Triple,1400,904,2980,450,Bottom,6.6,china peak,ca,0,0,
+Operating,6 Canyon,Double,1096,,,,Top,,china peak,ca,0,0,
+Operating,2 Buckhorn,Quad,1961,,,,Top,,china peak,ca,0,0,
+Operating,1 Summit,Triple,1618,1154,5265,,Top,,china peak,ca,0,0,
+Operating,7 Lakeview,Triple,1618,,,,Bottom,,china peak,ca,0,0,
+Operating,Chair 1,Double,1200,383,1924,465,Bottom,4.1,cockaigne,ny,0,0,
+Operating,Chair 2,Double,1050,396,2516,465,Bottom,5.4,cockaigne,ny,0,0,
+Operating,Run of the Mill,Double,1200,366,1087,375,Bottom,2.9,coffee mill,mn,0,0,
+Operating,Barnstormer,Double,1096,,,,Top,,coffee mill,mn,0,0,
+Operating,American Eagle,Chondola 6/8,3400,1484,6211,1000,Top,6.2,copper mountain,co,1,0,89
+Operating,American Flyer,High Speed Six,3200,1904,9886,1000,Top,9.9,copper mountain,co,1,0,89
+Operating,Super Bee,High Speed Six,2900,2293,8870,1100,Top,8.1,copper mountain,co,1,0,89
+Operating,Excelerator,High Speed Quad,2450,846,3216,1100,Top,2.9,copper mountain,co,1,0,89
+Operating,Timberline Express,High Speed Quad,2400,1129,4926,1000,Top,4.9,copper mountain,co,1,0,89
+Operating,Woodward Express,High Speed Quad,2400,1006,4819,1000,Top,4.8,copper mountain,co,1,0,89
+Operating,Rendezvous,Triple,2000,502,3367,550,Bottom,6.1,copper mountain,co,1,0,89
+Operating,Kokomo Express,High Speed Quad,1800,362,2923,800,Top,3.7,copper mountain,co,1,0,89
+Operating,Lumberjack,Triple,1800,702,4300,500,Bottom,8.6,copper mountain,co,1,0,89
+Operating,Resolution,Triple,1800,1417,4381,500,Top,8.8,copper mountain,co,1,0,89
+Operating,Alpine,Double,1200,1726,5586,500,Top,11.2,copper mountain,co,1,0,89
+Operating,Mountain Chief,Double,1200,814,2365,500,Bottom,4.7,copper mountain,co,1,0,89
+Operating,Pitchfork,Double,1200,66,535,500,Bottom,1.1,copper mountain,co,1,0,89
+Operating,Sierra,Triple,1200,773,3108,475,Bottom,6.5,copper mountain,co,1,0,89
+Operating,Three Bears,Triple,1200,1158,3166,500,Bottom,6.3,copper mountain,co,1,0,89
+Operating,Blackjack,Double,1096,744,,,Top,5.5,copper mountain,co,1,0,89
+Operating,Skimobile Express,High Speed Quad,3000,1123,4489,1000,Bottom,4.5,cranmore,nh,0,0,
+Operating,Lookout,Triple,1800,1110,4470,450,Bottom,9.9,cranmore,nh,0,0,
+Operating,Schneider,Triple,1800,,,,Bottom,,cranmore,nh,0,0,
+Operating,South,Quad,1600,544,2715,400,Bottom,6.8,cranmore,nh,0,0,
+Operating,C-More's,Double,1000,,,,Bottom,,cranmore,nh,0,0,
+Operating,East River Express,High Speed Quad,2400,1024,3458,1000,Top,3.5,crested butte,co,0,1,98
+Operating,Red Lady Express,High Speed Quad,2400,971,5647,1100,Top,5.1,crested butte,co,0,1,98
+Operating,Silver Queen Express,High Speed Quad,2400,2058,7800,1100,Top,7.1,crested butte,co,0,1,98
+Operating,Paradise Express,High Speed Quad,1980,1302,5682,1100,Top,5.2,crested butte,co,0,1,98
+Operating,Teocalli,Quad,1800,642,3791,450,Top,8.4,crested butte,co,0,1,98
+Operating,Westwall,Quad,1800,469,1741,450,Top,2.9,crested butte,co,0,1,98
+Operating,Gold Link,Triple,1800,524,2477,450,Top,5.5,crested butte,co,0,1,98
+Operating,Painter Boy,Triple,1800,335,1800,450,Top,4,crested butte,co,0,1,98
+Operating,Peachtree,Triple,1800,193,912,400,Top,2.3,crested butte,co,0,1,98
+Operating,Prospect,Quad,1200,541,2457,450,Top,5.5,crested butte,co,0,1,98
+Operating,The Rocket,High Speed Quad,2400,,,,,,crotched mountain,nh,0,1,
+Operating,Valley,Quad,2000,,,,Bottom,,crotched mountain,nh,0,1,
+Operating,Rover,Triple,1500,,,,Bottom,,crotched mountain,nh,0,1,
+Operating,West,Double,1200,485,2741,465,Bottom,5.9,crotched mountain,nh,0,1,
+Operating,Chinook Express,High Speed Six,3600,855,3954,1000,Top,4,crystal,wa,1,0,63
+Operating,Forest Queen Express,High Speed Six,3600,1163,4568,1000,Top,4.6,crystal,wa,1,0,63
+Operating,Rainier Express,High Speed Quad,2800,1584,4108,1000,Bottom,4.1,crystal,wa,1,0,63
+Operating,Buck,Quad,2525,294,1038,400,Bottom,2.6,crystal,mi,1,0,63
+Operating,Loki,Quad,2525,255,920,400,Bottom,2.3,crystal,mi,1,0,63
+Operating,Green Valley,High Speed Quad,2400,916,2859,1000,Top,2.9,crystal,wa,1,0,63
+Operating,North Face,Quad,2400,226,1161,410,Bottom,2.8,crystal,mi,1,0,63
+Operating,Ridge,Triple,2100,253,1258,300,Bottom,4.2,crystal,mi,1,0,63
+Operating,Crystal Clipper,High Speed Quad,2000,314,2167,1100,Top,2,crystal,mi,1,0,63
+Operating,Discovery,Triple,1800,168,1465,450,Bottom,3.3,crystal,wa,1,0,63
+Operating,Gold Hills,Triple,1800,588,1878,,Bottom,,crystal,wa,1,0,63
+Operating,Northway,Double,1200,1843,5422,550,Top,9.9,crystal,wa,1,0,63
+Operating,Mount Rainier Gondola,Gondola 8,900,2457,6835,800,Bottom,8.5,crystal,wa,1,0,63
+Operating,Chair 6,Double,875,920,2510,510,Bottom,4.9,crystal,wa,1,0,63
+Operating,Quicksilver,Quad,1961,717,,,Top,,crystal,wa,1,0,63
+Operating,Backyard,Triple,1618,,,,Bottom,,crystal,mi,1,0,63
+Standing,Chair 5,Triple,1800,972,3219,450,Bottom,7.2,cuchara,co,0,0,
+Standing,Chair 4,Double,1200,266,1427,400,Bottom,3.6,cuchara,co,0,0,
+Standing,Chair 3,Double,1100,1346,4940,500,Bottom,9.9,cuchara,co,0,0,
+Operating,Winslow,Quad,1800,893,3690,450,Bottom,8.2,dartmouth skiway,nh,0,0,
+Operating,Holt's Ledge,Double,1000,,,,Bottom,,dartmouth skiway,nh,0,0,
+Operating,Carpenter Express,High Speed Quad,3000,1185,4835,1070,Top,4.5,deer valley,ut,1,0,109
+Operating,Empire Express,High Speed Quad,2800,1210,4825,1000,Top,4.8,deer valley,ut,1,0,109
+Operating,Quincy Express,High Speed Quad,2800,1011,4144,1000,Top,4.1,deer valley,ut,1,0,109
+Operating,Ruby Express,High Speed Quad,2800,723,2386,1000,Top,2.4,deer valley,ut,1,0,109
+Operating,Silver Lake Express,High Speed Quad,2800,1398,6610,1000,Top,6.6,deer valley,ut,1,0,109
+Operating,Homestake Express,High Speed Quad,2400,264,1710,1000,Top,1.7,deer valley,ut,1,0,109
+Operating,Lady Morgan Express,High Speed Quad,2400,1118,4499,1000,Top,4.5,deer valley,ut,1,0,109
+Operating,Mountaineer Express,High Speed Quad,2400,869,2965,984,Top,3,deer valley,ut,1,0,109
+Operating,Northside Express,High Speed Quad,2400,910,3735,1000,Top,3.7,deer valley,ut,1,0,109
+Operating,Silver Strike Express,High Speed Quad,2400,984,5114,1000,Top,5.1,deer valley,ut,1,0,109
+Operating,Sterling Express,High Speed Quad,2400,1169,4686,1000,Top,4.7,deer valley,ut,1,0,109
+Operating,Sultan Express,High Speed Quad,2400,1752,4995,1000,Top,5,deer valley,ut,1,0,109
+Operating,Wasatch Express,High Speed Quad,2400,1398,4201,1000,Top,4.2,deer valley,ut,1,0,109
+Operating,Jordanelle Express Gondola,Gondola 6,1900,1322,5170,1000,Top,5.2,deer valley,ut,1,0,109
+Operating,Burns Express,High Speed Quad,1800,190,1020,690,Bottom,1.5,deer valley,ut,1,0,109
+Operating,Crown Point,Triple,1800,550,1394,500,Top,2.8,deer valley,ut,1,0,109
+Operating,Judge,Triple,1800,195,697,400,Top,1.7,deer valley,ut,1,0,109
+Operating,Mayflower,Triple,1800,1371,3493,500,Top,7,deer valley,ut,1,0,109
+Operating,Red Cloud,Triple,1800,766,2568,500,Top,5.1,deer valley,ut,1,0,109
+Operating,Viking,Triple,1800,135,1500,500,Bottom,3,deer valley,ut,1,0,109
+Operating,Snowflake,Double,1000,190,1070,300,Top,3.6,deer valley,ut,1,0,109
+Operating,Q,Triple,1618,,,,Bottom,,detroit mountain,mn,0,0,
+Operating,Z,Triple,1618,,,,Bottom,,detroit mountain,mn,0,0,
+Operating,Crystal Express,High Speed Quad,2400,1477,4923,1000,Top,4.9,diamond peak,nv,0,0,
+Operating,Lakeview,Quad,2400,672,2205,500,Top,4.4,diamond peak,nv,0,0,
+Operating,Lodgepole,Quad,1800,292,2022,425,Top,4.8,diamond peak,nv,0,0,
+Operating,Red Fox,Double,1200,441,1645,450,Top,3.7,diamond peak,nv,0,0,
+Operating,Schoolhouse,Double,1200,50,805,450,Bottom,1.8,diamond peak,nv,0,0,
+Operating,Ridge,Double,1065,286,1550,475,Bottom,3.3,diamond peak,nv,0,0,
+Operating,Chair 8,Quad,2400,1101,4540,475,Top,9.6,dodge ridge,ca,0,0,
+Operating,Chair 3,Triple,1900,794,3580,500,Bottom,7.2,dodge ridge,ca,0,0,
+Operating,Chair 7,Triple,1800,1168,4755,500,Bottom,9.5,dodge ridge,ca,0,0,
+Operating,1 Triple Nugget,Triple,1400,400,2251,400,Bottom,5.6,dodge ridge,ca,0,0,
+Operating,Chair 4,Double,1200,630,2442,,Bottom,,dodge ridge,ca,0,0,
+Operating,Chair 5,Double,650,795,3586,450,Bottom,8,dodge ridge,ca,0,0,
+Operating,Chair 6,Double,1096,224,1468,350,Top,4.2,dodge ridge,ca,0,0,
+Operating,Chair 1,Triple,1800,709,2198,500,Bottom,4.4,donner ski ranch,ca,0,0,59
+Operating,Chair 2,Double,1096,413,1656,450,Top,3.7,donner ski ranch,ca,0,0,59
+Operating,Chair 3,Double,1096,511,3000,500,Top,6,donner ski ranch,ca,0,0,59
+Operating,Chair 4,Double,1096,257,1045,370,Top,2.8,donner ski ranch,ca,0,0,59
+Operating,Chair 5,Double,1096,300,2996,450,Top,6.7,donner ski ranch,ca,0,0,59
+Operating,Chair 6,Double,1096,157,970,450,Top,2.2,donner ski ranch,ca,0,0,59
+Operating,Monarch,Triple,1800,441,2292,450,Bottom,5.1,eagle point,ut,0,0,
+Operating,Lookout,Quad,1700,957,3314,500,Bottom,6.6,eagle point,ut,0,0,
+Operating,Skyline,Double,1200,432,2821,500,Top,5.6,eagle point,ut,0,0,
+Operating,Canyonside,Double,1096,,,,Bottom,,eagle point,ut,0,0,
+Operating,Soaring Heights 1,Double,1200,495,2495,450,Top,5.5,eagle rock,pa,0,0,
+Operating,Soaring Heights 2,Double,1200,498,2495,453,Top,5.5,eagle rock,pa,0,0,
+Operating,Hooter,Double,1200,632,3160,450,Bottom,7,eaglecrest,ak,0,0,
+Operating,Ptarmigan,Double,800,1403,4880,500,Bottom,9.8,eaglecrest,ak,0,0,
+Operating,Black Bear,Double,1096,,,,Bottom,,eaglecrest,ak,0,0,
+Operating,Porcupine,Double,1096,,,,Bottom,,eaglecrest,ak,0,0,
+Operating,Alpenglow,High Speed Six,3600,1001,4098,1000,Top,4.1,eldora,co,1,0,80
+Operating,Corona,Quad,1900,1370,4039,475,Top,8.5,eldora,co,1,0,80
+Operating,Indian Peaks,Quad,1800,1111,4070,450,Top,9,eldora,co,1,0,80
+Operating,EZ,Triple,1800,250,1437,450,Bottom,3.2,eldora,co,1,0,80
+Operating,Caribou,Double,1200,250,1240,350,Bottom,3.5,eldora,co,1,0,80
+Operating,Sundance,Double,1200,346,1647,425,Bottom,3.9,eldora,co,1,0,80
+Operating,Little Hawk,Double,1000,112,788,350,Top,2.3,eldora,co,1,0,80
+Operating,F,Quad,2400,935,3570,425,Bottom,8.4,elk mountain,pa,0,0,
+Operating,B,Double,1200,897,3672,465,Bottom,7.9,elk mountain,pa,0,0,
+Operating,C,Double,1200,870,3291,450,Bottom,7.3,elk mountain,pa,0,0,
+Operating,D,Double,1200,320,1798,465,Bottom,3.9,elk mountain,pa,0,0,
+Operating,A,Double,1000,85,602,350,Bottom,1.7,elk mountain,pa,0,0,
+Operating,E,Double,1096,,,,Bottom,,elk mountain,pa,0,0,
+Operating,Sarajevo Express,High Speed Quad,2400,423,2260,1000,Bottom,2.3,giants ridge,mn,0,0,
+Operating,Helsinki,Quad,2400,420,1915,400,Bottom,4.8,giants ridge,mn,0,0,
+Operating,Calgary,Triple,1800,421,1945,450,Bottom,4.3,giants ridge,mn,0,0,
+Operating,Chamonix,Double,1200,404,2100,450,Bottom,4.7,giants ridge,mn,0,0,
+Operating,Rocky Top,Double,1200,427,2319,450,Bottom,5.2,giants ridge,mn,0,0,
+Operating,Northwoods,Gondola 8,2400,1703,7208,1100,Top,6.6,gore mountain,ny,0,0,71
+Operating,Adirondack Express II,High Speed Quad,2400,1494,7079,1100,Bottom,6.4,gore mountain,ny,0,0,71
+Operating,North,Quad,2400,733,3750,450,Top,8.3,gore mountain,ny,0,0,71
+Operating,Straight Brook,Quad,2400,913,2755,450,Top,6.1,gore mountain,ny,0,0,71
+Operating,Sunway,Quad,2400,591,3232,450,Bottom,7.2,gore mountain,ny,0,0,71
+Operating,Burnt Ridge,High Speed Quad,2000,1437,6096,1100,Bottom,5.5,gore mountain,ny,0,0,71
+Operating,High Peaks,Quad,2000,902,3537,450,Bottom,7.9,gore mountain,ny,0,0,71
+Operating,Hudson,Triple,1618,,,,Bottom,,gore mountain,ny,0,0,71
+Operating,Topridge,Triple,1618,1024,4100,,Top,,gore mountain,ny,0,0,71
+Operating,Village,Triple,1618,,,,Bottom,,gore mountain,ny,0,0,71
+Operating,Quickdraw,High Speed Quad,2400,840,4360,1100,Top,4,granby ranch,co,0,0,
+Operating,Conquest,Triple,1800,767,3375,450,Bottom,7.5,granby ranch,co,0,0,
+Operating,Milestone,Double,1200,77,555,300,Bottom,1.9,granby ranch,co,0,0,
+Operating,Kicking Horse,Quad,1200,244,1920,450,Bottom,4.3,granby ranch,co,0,0,
+Operating,Dreamcatcher,High Speed Quad,2400,1883,6278,1000,Bottom,6.3,grand targhee,wy,0,0,
+Operating,Sacajewea,High Speed Quad,2400,1289,3891,1000,Top,3.9,grand targhee,wy,0,0,
+Operating,Colter,High Speed Six,2400,1821,4774,1000,Top,4.7,grand targhee,wy,0,0,
+Operating,Blackfoot,Quad,1800,1200,3119,450,Bottom,6.9,grand targhee,wy,0,0,
+Operating,Shoshone,Quad,1800,350,1881,350,Bottom,5.4,grand targhee,wy,0,0,
+Operating,Rawhide Gulch,Double,1096,250,2450,500,Bottom,4.9,great divide,mt,0,0,
+Operating,Meadow Mountain,Double,1096,300,1000,400,Bottom,2.5,great divide,mt,0,0,
+Operating,Good Luck,Double,1096,615,2600,,Bottom,,great divide,mt,0,0,
+Operating,Mount Belmont,Double,1096,1300,4500,500,Bottom,9,great divide,mt,0,0,
+Operating,Wild West,Double,1096,1200,4800,450,Bottom,10.7,great divide,mt,0,0,
+Operating,1A Visions Express,Quad,2400,735,3313,450,Bottom,7.4,greek peak,ny,0,0,
+Operating,5,Triple,1725,646,3229,460,Top,7,greek peak,ny,0,0,
+Operating,1,Double,1200,737,3211,465,Bottom,6.9,greek peak,ny,0,0,
+Operating,2,Double,1000,750,4300,,Top,,greek peak,ny,0,0,
+Operating,4,Double,1000,601,2732,465,Bottom,5.9,greek peak,ny,0,0,
+Operating,3,Triple,1618,,,,Top,,greek peak,ny,0,0,
+Operating,Panorama,High Speed Quad,2400,1602,6427,1000,Bottom,6.4,gunstock,nh,0,0,
+Operating,Ramrod,Quad,2100,420,1860,400,Bottom,4.7,gunstock,nh,0,0,
+Operating,Pistol,Triple,1800,523,2510,500,Bottom,5,gunstock,nh,0,0,
+Operating,Tiger,Triple,1800,720,2780,445,Bottom,6.2,gunstock,nh,0,0,
+Operating,Penny Pitou's Silver Medal,Quad,1500,165,1207,400,Bottom,3,gunstock,nh,0,0,
+Operating,Powderbowl Express,High Speed Six,3400,793,2325,1000,Top,2.3,heavenly,nv,0,1,120
+Operating,Gondola,Gondola 8,2800,2874,12149,1200,Top,10.1,heavenly,nv,0,1,120
+Operating,Comet Express,High Speed Quad,2800,883,3688,1000,Bottom,3.7,heavenly,nv,0,1,120
+Operating,Dipper Express,High Speed Quad,2800,1141,5013,1000,Top,5,heavenly,nv,0,1,120
+Operating,Stagecoach Express,High Speed Quad,2800,1493,5920,1000,Bottom,5.9,heavenly,nv,0,1,120
+Operating,Canyon Express,High Speed Quad,2600,1002,3831,1000,Bottom,7.7,heavenly,nv,0,1,120
+Operating,Gunbarrel Express,High Speed Quad,2600,1588,3758,1000,Top,3.8,heavenly,nv,0,1,120
+Operating,North Bowl Express,High Speed Quad,2400,1279,5077,1000,Top,5.1,heavenly,nv,0,1,120
+Operating,Olympic Express,High Speed Quad,2400,866,3330,1000,Top,3.3,heavenly,nv,0,1,120
+Operating,Sky Express,High Speed Quad,2400,1418,4585,1000,Bottom,4.6,heavenly,nv,0,1,120
+Operating,Tamarack Express,High Speed Six,2400,571,2930,1000,Bottom,2.9,heavenly,nv,0,1,120
+Operating,Patsy's,Triple,2000,124,1220,500,Top,2.4,heavenly,nv,0,1,120
+Operating,Boulder,Triple,1800,440,3103,400,Top,7.8,heavenly,nv,0,1,120
+Operating,Galaxy,Triple,1800,1014,5617,500,Top,11.2,heavenly,nv,0,1,120
+Operating,Big Easy,Quad,1600,172,910,350,Bottom,2.6,heavenly,nv,0,1,120
+Operating,Mott Canyon,Double,1000,871,2702,550,Top,4.9,heavenly,nv,0,1,120
+Operating,World Cup,Double,900,323,1170,400,Bottom,2.9,heavenly,nv,0,1,120
+Operating,Aerial Tram,Tram 50,650,1569,4015,1575,Bottom,2.5,heavenly,nv,0,1,120
+Operating,First Ride,Triple,1618,,,,Top,,heavenly,nv,0,1,120
+Operating,Groove,Triple,1618,,,,Top,,heavenly,nv,0,1,120
+Operating,Barnstormer,High Speed Six,2725,1181,5450,1000,Bottom,5.5,hermitage club,vt,0,0,
+Operating,The Witches,Triple,1800,685,2350,500,Bottom,4.7,hermitage club,vt,0,0,
+Operating,Stag's Leap,Quad,1600,302,2958,450,,6.6,hermitage club,vt,0,0,
+Operating,The Tage,Quad,600,448,2855,400,Top,7.1,hermitage club,vt,0,0,
+Operating,Avalanche,Quad,2400,437,2530,425,Top,6,hidden valley,pa,0,1,
+Operating,Blizzard,Quad,2400,321,1449,450,Top,3.2,hidden valley,pa,0,1,
+Operating,Sunrise,Triple,1800,398,2158,465,Bottom,4.6,hidden valley,pa,0,1,
+Operating,Sunset,Triple,1800,398,2158,465,Bottom,4.6,hidden valley,pa,0,1,
+Operating,Mardi Gras Xpress,High Speed Quad,2800,688,4230,1000,Bottom,4.2,holiday valley,ny,0,0,
+Operating,Morningstar Express,High Speed Quad,2400,528,2519,1000,Bottom,2.5,holiday valley,ny,0,0,
+Operating,Tannenbaum Express,High Speed Quad,2400,477,2669,1000,Bottom,2.7,holiday valley,ny,0,0,
+Operating,Yodeler Express,High Speed Quad,2400,500,1624,800,Bottom,2,holiday valley,ny,0,0,
+Operating,Chute,Quad,2400,475,1570,400,Bottom,3.9,holiday valley,ny,0,0,
+Operating,Cindy's,Quad,2400,460,2090,400,Bottom,5.2,holiday valley,ny,0,0,
+Operating,Eagle,Quad,2400,429,1720,425,Bottom,4,holiday valley,ny,0,0,
+Operating,Sunrise,Quad,2400,463,2040,400,Bottom,5.1,holiday valley,ny,0,0,
+Operating,Spruce Lake,Quad,1800,447,2924,450,Bottom,6.5,holiday valley,ny,0,0,
+Operating,Creekside,Quad,1500,127,872,300,Bottom,2.9,holiday valley,ny,0,0,
+Operating,SnowPine,Quad,1961,,,,Bottom,,holiday valley,ny,0,0,
+Operating,Exhibition Express,High Speed Quad,2400,397,2369,984,Bottom,2.4,holimont,ny,0,0,
+Operating,Cascade,Quad,2400,570,1895,450,Bottom,4.2,holimont,ny,0,0,
+Operating,Sunset,Triple,1650,512,2510,450,Bottom,5.6,holimont,ny,0,0,
+Operating,Greer,Double,1200,551,2041,450,Bottom,4.5,holimont,ny,0,0,
+Operating,Meadow,Double,1200,547,2638,450,Bottom,5.9,holimont,ny,0,0,
+Operating,Chipmunk,Triple,1100,70,511,350,Bottom,1.5,holimont,ny,0,0,
+Operating,Old Homewood Express,High Speed Quad,1800,968,3971,1000,Top,4,homewood,ca,0,0,
+Operating,Madden,Triple,1800,1040,3804,475,Bottom,8,homewood,ca,0,0,
+Operating,Ellis,Triple,1200,1087,4512,400,Bottom,11.3,homewood,ca,0,0,
+Operating,Quail,Triple,1200,767,2501,450,Bottom,10,homewood,ca,0,0,
+Operating,Triple,Triple,1400,758,3067,450,Bottom,6.8,hunt hollow,ny,0,0,
+Operating,Double,Double,1096,,,,Bottom,,hunt hollow,ny,0,0,
+Operating,Kaatskill Flyer,High Speed Six,3200,1477,5400,1000,Bottom,5.4,hunter mountain,ny,0,0,68
+Operating,Northern Express,High Speed Six,2400,1030,3245,1000,Bottom,3.3,hunter mountain,ny,0,0,68
+Operating,Zephyr Express,High Speed Quad,2000,,,,Bottom,,hunter mountain,ny,0,0,68
+Operating,D,Double,1800,900,3500,450,Bottom,7.8,hunter mountain,ny,0,0,68
+Operating,B Broadway,Quad,1800,490,2642,450,Top,5.9,hunter mountain,ny,0,0,68
+Operating,C 20th Century,Quad,1800,171,1393,450,Top,3.1,hunter mountain,ny,0,0,68
+Operating,F,Triple,1800,1010,2950,500,Bottom,5.9,hunter mountain,ny,0,0,68
+Operating,H,Double,1200,205,1793,500,Top,3.6,hunter mountain,ny,0,0,68
+Operating,E,Double,1000,418,2469,465,Bottom,5.3,hunter mountain,ny,0,0,68
+Operating,South Park,Quad,2400,154,754,400,Bottom,1.9,hyland hills,mn,0,0,
+Operating,North,Quad,2100,146,611,400,Bottom,1.5,hyland hills,mn,0,0,
+Operating,Central Park,Quad,2058,110,570,400,Bottom,1.4,hyland hills,mn,0,0,
+Operating,Aurora,Triple,1800,527,3110,,Top,,indianhead,mi,0,0,
+Operating,A,Double,1200,420,2188,450,Top,4.9,indianhead,mi,0,0,
+Operating,B,Double,1200,418,1920,450,Top,4.3,indianhead,mi,0,0,
+Operating,C,Double,1200,420,1802,450,Top,4,indianhead,mi,0,0,
+Operating,D,Double,1200,414,2093,450,Top,4.7,indianhead,mi,0,0,
+Operating,Cloudfront,Double,1100,492,2548,450,Top,5.7,indianhead,mi,0,0,
+Operating,Bear Creek,Double,1096,,,,Top,,indianhead,mi,0,0,
+Operating,Original,Double,1096,,,,Top,,indianhead,mi,0,0,
+Operating,A,Quad,2400,428,2141,450,Bottom,4.8,jack frost,pa,0,1,
+Operating,Paradise,Quad,1800,526,2698,400,Bottom,6.7,jack frost,pa,0,1,
+Operating,Pocono,Quad,1800,108,966,400,Bottom,2.4,jack frost,pa,0,1,
+Operating,Tonyhanna,Quad,1800,402,2278,400,Bottom,5.7,jack frost,pa,0,1,
+Operating,D I,Double,1200,392,2491,450,Bottom,5.5,jack frost,pa,0,1,
+Operating,D II,Double,1200,392,2491,450,Bottom,5.5,jack frost,pa,0,1,
+Operating,Bridger Gondola,Gondola 8,2400,2730,8730,1200,Top,7.3,jackson hole,wy,1,0,119
+Operating,Teton,High Speed Quad,2223,1722,4069,1000,Top,4.1,jackson hole,wy,1,0,119
+Operating,Thunder,High Speed Quad,2200,1454,3645,1000,Top,3.6,jackson hole,wy,1,0,119
+Operating,Casper,High Speed Quad,2160,1041,3389,1000,Top,3.4,jackson hole,wy,1,0,119
+Operating,Sweetwater Gondola,Gondola 8,2000,1275,4339,800,Top,7.5,jackson hole,wy,1,0,119
+Operating,Apres Vous,High Speed Quad,2000,1748,5097,1000,Top,5.1,jackson hole,wy,1,0,119
+Operating,Teewinot,High Speed Quad,2000,405,2679,1000,Top,2.7,jackson hole,wy,1,0,119
+Operating,Sublette,Quad,1650,1630,4118,500,Bottom,8.2,jackson hole,wy,1,0,119
+Operating,Eagle's Rest,Quad,1200,281,1584,400,Bottom,4,jackson hole,wy,1,0,119
+Operating,Moose Creek,Quad,1200,187,1208,450,Top,2.7,jackson hole,wy,1,0,119
+Operating,Union Pass,Quad,1200,255,1814,450,Bottom,4,jackson hole,wy,1,0,119
+Operating,Marmot,Double,1100,1208,3281,475,Bottom,6.9,jackson hole,wy,1,0,119
+Operating,Aerial Tram,Tram 100,650,4084,12463,2000,Bottom,6.2,jackson hole,wy,1,0,119
+Operating,Green Mountain Flyer,High Speed Quad,2600,1620,7350,1100,Bottom,6.7,jay peak,vt,0,0,70
+Operating,Metro,Quad,2115,,,,Bottom,,jay peak,vt,0,0,70
+Operating,Bonaventure,Quad,1915,1370,4650,490,Bottom,9.5,jay peak,vt,0,0,70
+Operating,Taxi,Quad,1800,95,542,425,Bottom,1.3,jay peak,vt,0,0,70
+Operating,Jet,Triple,1800,1160,3500,480,Bottom,7.3,jay peak,vt,0,0,70
+Operating,Village,Double,1200,,,,Bottom,,jay peak,vt,0,0,70
+Operating,Aerial Tramway,Tram 60,370,1952,7779,1969,Bottom,4,jay peak,vt,0,0,70
+Operating,Berkshire Express,High Speed Six,2800,1113,3895,1100,Bottom,3.5,jiminy peak,ma,0,0,
+Operating,Whitetail,Quad,2000,,,,Bottom,,jiminy peak,ma,0,0,
+Operating,Cricket,Triple,1800,56,650,325,Bottom,2,jiminy peak,ma,0,0,
+Operating,Summit,Triple,1800,1148,4230,450,Bottom,9.4,jiminy peak,ma,0,0,
+Operating,Widow's White,Quad,1500,902,3005,450,Bottom,6.7,jiminy peak,ma,0,0,
+Operating,Grand Slam,Double,1200,591,2771,450,Bottom,6.2,jiminy peak,ma,0,0,
+Operating,Novice,Triple,1200,191,1148,400,Bottom,2.9,jiminy peak,ma,0,0,
+Operating,J7,High Speed Quad,2800,1018,3520,1000,Bottom,3.5,june mountain,ca,1,0,
+Operating,J6,High Speed Quad,2400,1312,8476,1000,Bottom,8.5,june mountain,ca,1,0,
+Operating,J2,Double,1200,567,3924,500,Bottom,7.9,june mountain,ca,1,0,
+Operating,J4,Double,1200,878,5471,500,Bottom,10.9,june mountain,ca,1,0,
+Operating,J3,Double,1000,107,1130,,Top,,june mountain,ca,1,0,
+Operating,J1,Double,1096,1045,3050,,Bottom,,june mountain,ca,1,0,
+Operating,Gold Rush,Triple,1500,858,3977,500,Bottom,8,kelly canyon,id,0,0,
+Operating,Gun Powder,Double,1096,,,,Bottom,,kelly canyon,id,0,0,
+Operating,Lost Treasure,Double,1096,,,,Bottom,,kelly canyon,id,0,0,
+Operating,Outlaw,Double,1096,,,,Bottom,,kelly canyon,id,0,0,
+Operating,Ruby Express,High Speed Six,3600,1600,5864,1100,Top,5.3,keystone,co,0,1,120
+Operating,Montezuma Express,High Speed Six,3000,1667,7031,1000,Top,7,keystone,co,0,1,120
+Operating,Peru Express,High Speed Six,3000,1558,6332,1000,Top,6.3,keystone,co,0,1,120
+Operating,Outback Express,High Speed Quad,2800,1482,5846,1000,Bottom,5.8,keystone,co,0,1,120
+Operating,Santiago Express,High Speed Quad,2800,1600,4438,1000,Top,4.4,keystone,co,0,1,120
+Operating,Summit Express,High Speed Quad,2600,2303,9403,1100,Top,8.5,keystone,co,0,1,120
+Operating,Outpost Gondola,Gondola 6,2400,1198,7522,1000,Top,7.5,keystone,co,0,1,120
+Operating,River Run Gondola,Gondola 8,2400,2307,9587,1000,Top,9.6,keystone,co,0,1,120
+Construction,Bergman Express,High Speed Six,2400,,,,,,keystone,co,0,1,120
+Operating,Wayback,Quad,2400,1300,3930,450,Top,8.7,keystone,co,0,1,120
+Operating,Ranger,Triple,1800,193,1022,400,Top,2.6,keystone,co,0,1,120
+Operating,A 51,Double,1200,953,4190,500,Top,8.4,keystone,co,0,1,120
+Operating,Discovery,Double,1200,105,685,425,Top,1.6,keystone,co,0,1,120
+Operating,Snowshed Express,High Speed Quad,3000,549,3532,900,Bottom,3.9,killington,vt,1,0,90
+Operating,Superstar Express,High Speed Quad,3000,1173,3395,900,Bottom,3.8,killington,vt,1,0,90
+Operating,Snowdon Six Express,High Speed Six,3000,1114,4428,1000,Bottom,4.4,killington,vt,1,0,90
+Operating,K-1,Gondola 8,2800,1642,6453,1000,Top,6.5,killington,vt,1,0,90
+Operating,Needles Eye Express,High Speed Quad,2600,990,3590,900,Bottom,4,killington,vt,1,0,90
+Operating,Ramshead Express,High Speed Quad,2600,1073,5499,1100,Bottom,5,killington,vt,1,0,90
+Operating,Skye Peak Express,High Speed Quad,2600,1525,4926,1000,Top,4.9,killington,vt,1,0,90
+Operating,Skyeship Stage I,Gondola 8,2400,1187,7848,1200,Top,6.5,killington,vt,1,0,90
+Operating,Skyeship Stage II,Gondola 8,2400,1335,5105,1200,Top,4.3,killington,vt,1,0,90
+Operating,Bear Mountain,Quad,2400,1184,2858,550,Top,5.2,killington,vt,1,0,90
+Operating,North Ridge,Quad,2400,587,2295,450,Top,5.1,killington,vt,1,0,90
+Operating,Northbrook,Quad,2400,401,2279,450,Bottom,5.1,killington,vt,1,0,90
+Operating,South Ridge,Quad,2400,863,,,Top,,killington,vt,1,0,90
+Operating,Snowdon,Triple,1865,1070,4435,450,Top,9.9,killington,vt,1,0,90
+Operating,Canyon,Quad,1800,1193,3638,,Top,,killington,vt,1,0,90
+Operating,Sunrise Village,Triple,1800,434,3088,550,Top,5.6,killington,vt,1,0,90
+Operating,Snowshed 1,Double,1200,529,3280,450,Bottom,7.3,killington,vt,1,0,90
+Operating,Polar Bear,Triple,1800,312,1485,,Bottom,,king pine,nh,0,0,
+Operating,Black Bear,Triple,1300,,,,Top,,king pine,nh,0,0,
+Operating,Powder Bear,Triple,1300,,,,Top,,king pine,nh,0,0,
+Operating,6 Cornice Express,High Speed Quad,2400,1363,3892,1000,Bottom,3.9,kirkwood,ca,0,1,85
+Operating,7 Timber Creek Express,High Speed Quad,2400,480,2767,1000,Bottom,2.8,kirkwood,ca,0,1,85
+Operating,4 Sunrise,Quad,2000,1202,5080,450,Bottom,11.3,kirkwood,ca,0,1,85
+Operating,10 The Wall,Triple,1800,1615,5748,500,Bottom,10.5,kirkwood,ca,0,1,85
+Operating,11 The Reut,Triple,1800,855,3828,550,Bottom,7,kirkwood,ca,0,1,85
+Operating,3 Iron Horse,Double,1200,400,2260,450,Bottom,5,kirkwood,ca,0,1,85
+Operating,1 Snowkirk,Triple,1200,425,3415,400,Bottom,8.5,kirkwood,ca,0,1,85
+Operating,2 Caples Crest,Triple,1200,585,2680,450,Bottom,6,kirkwood,ca,0,1,85
+Operating,9 Bunny,Triple,1200,169,1420,400,Bottom,3.6,kirkwood,ca,0,1,85
+Operating,5 Solitude,Triple,1100,747,2940,450,Bottom,6.5,kirkwood,ca,0,1,85
+Operating,Slalom,Quad,2400,468,2565,425,Bottom,6,kissing bridge,ny,0,0,
+Operating,Holly,Quad,2300,474,2332,375,Bottom,6.2,kissing bridge,ny,0,0,
+Operating,World,Double,1000,360,1641,430,Bottom,3.8,kissing bridge,ny,0,0,
+Operating,South,Double,1096,,,,Bottom,,kissing bridge,ny,0,0,
+Operating,Tanglwood,Double,1096,,,,Bottom,,kissing bridge,ny,0,0,
+Operating,Holly,Triple,1618,,,,Bottom,,kissing bridge,ny,0,0,
+Operating,Triple,Triple,1800,655,3016,450,Bottom,6.7,labrador mountain,ny,0,0,
+Operating,North,Double,1200,644,3737,465,Bottom,8,labrador mountain,ny,0,0,
+Operating,South,Double,1200,668,3600,465,Bottom,7.7,labrador mountain,ny,0,0,
+Operating,Bluebird,Quad,2010,684,2916,450,Bottom,6.5,lee canyon,nv,0,0,
+Operating,Rabbit Peak,Quad,1800,27,215,400,Top,0.5,lee canyon,nv,0,0,
+Operating,Sherwood,Triple,1618,,,,Bottom,,lee canyon,nv,0,0,
+Operating,Alpine,Quad,2400,571,2379,400,Bottom,5.9,liberty mountain,pa,0,1,
+Operating,Eastwind,Quad,2375,520,1809,450,Top,4,liberty mountain,pa,0,1,
+Operating,Strata,Quad,2000,525,1915,425,Top,4.5,liberty mountain,pa,0,1,
+Operating,Dipsy,Quad,1800,270,1889,400,Top,4.7,liberty mountain,pa,0,1,
+Operating,First Class,Quad,1800,121,1197,300,Bottom,4,liberty mountain,pa,0,1,
+Operating,Peak 1,Quad,1780,802,2841,450,Bottom,6.3,lookout pass,id,0,0,
+Operating,Eagle Peak,Quad,1500,1350,5260,450,Bottom,11.7,lookout pass,id,0,0,
+Operating,Northstar,Double,1096,,,,Top,,lookout pass,id,0,0,
+Operating,Success,Triple,1618,,,,Bottom,,lookout pass,id,0,0,
+Operating,Timber Wolf,Triple,1618,,,,Top,,lookout pass,id,0,0,
+Operating,Kancamagus 8,High Speed Eight,3500,1065,3992,1080,Bottom,3.7,loon mountain,nh,1,0,73
+Operating,Lincoln Express,High Speed Quad,2800,1475,5160,1000,Bottom,5.2,loon mountain,nh,1,0,73
+Operating,North Peak Express,High Speed Quad,2800,1563,4820,1000,Bottom,4.8,loon mountain,nh,1,0,73
+Operating,Seven Brothers Express,High Speed Quad,2400,740,3302,1000,Bottom,3.3,loon mountain,nh,1,0,73
+Operating,Tote Road,Quad,2400,95,1919,450,Top,4.3,loon mountain,nh,1,0,73
+Operating,Kissin' Cousin,Double,1800,605,3043,450,Bottom,6.8,loon mountain,nh,1,0,73
+Operating,East Basin,Double,1000,1230,3690,480,Top,7.7,loon mountain,nh,1,0,73
+Operating,White Mountain Express,Gondola 4,1000,1738,6970,1000,Top,7,loon mountain,nh,1,0,73
+Operating,Little Sister,Double,900,232,1090,340,Bottom,3.2,loon mountain,nh,1,0,73
+Operating,Rivers Edge,Double,634,128,633,400,Top,1.6,loon mountain,nh,1,0,73
+Operating,2 Idaho,Double,950,1093,3628,460,Top,7.9,lost trail m,id,0,0,
+Operating,1 Montana,Double,725,648,2288,465,Bottom,4.9,lost trail m,id,0,0,
+Operating,3 Huckleberry,Double,1096,,,,Top,,lost trail m,id,0,0,
+Operating,4 Saddle Mountain,Double,1096,,,,Top,,lost trail m,id,0,0,
+Operating,5 Raven,Double,1096,,,,Bottom,,lost trail m,id,0,0,
+Operating,Chair 2,Double,1200,218,1219,340,,3.6,lost valley,me,0,0,
+Operating,Chair 1,Double,1000,,,,,,lost valley,me,0,0,
+Operating,1 ChetÃ¢Â€Â™s Dream,High Speed Quad,1800,991,2595,1000,Bottom,2.6,loveland,co,0,0,61
+Operating,2,Triple,1800,,,500,Bottom,,loveland,co,0,0,61
+Operating,6,Triple,1800,664,3255,475,Bottom,6.9,loveland,co,0,0,61
+Operating,Ptarmigan,Triple,1800,764,3085,500,Bottom,6.2,loveland,co,0,0,61
+Operating,3,Quad,1500,819,3363,450,Bottom,7.5,loveland,co,0,0,61
+Operating,8,Quad,1500,894,3837,450,Bottom,8.5,loveland,co,0,0,61
+Operating,4,Triple,1392,1079,3554,500,Bottom,7.1,loveland,co,0,0,61
+Operating,7,Double,1200,136,1010,300,Top,3.4,loveland,co,0,0,61
+Operating,9,Quad,1200,1255,4742,450,Bottom,10.5,loveland,co,0,0,61
+Operating,Caribou Express,High Speed Six,3200,768,3593,1000,Top,3.6,lutsen mountains,mn,0,0,
+Operating,Gondola,Gondola 8,2400,308,4866,1000,Bottom,4.9,lutsen mountains,mn,0,0,
+Operating,Bridge,Double,1200,616,2465,450,Top,5.5,lutsen mountains,mn,0,0,
+Operating,Ullr,Double,1200,279,1608,450,Bottom,3.6,lutsen mountains,mn,0,0,
+Operating,Mystery Mountain,Double,1096,,,,Bottom,,lutsen mountains,mn,0,0,
+Operating,Timberwolf,Double,1096,,,,Top,,lutsen mountains,mn,0,0,
+Operating,10th Mountain,Triple,1618,,,,Bottom,,lutsen mountains,mn,0,0,
+Operating,Sunnyside,Double,1000,,,,Bottom,,mad river glen,vt,0,0,
+Operating,Practice Slope,Double,900,288,1319,495,Bottom,2.7,mad river glen,vt,0,0,
+Operating,Birdland,Double,750,500,2400,500,Bottom,4.8,mad river glen,vt,0,0,
+Operating,Single Chair,Single,480,1972,5234,600,Bottom,8.7,mad river glen,vt,0,0,
+Construction,Black Line,Quad,2000,,,,Bottom,,magic mountain,vt,0,0,
+Operating,Red,Double,1000,1500,5350,500,Bottom,10.7,magic mountain,vt,0,0,
+Operating,Green,Double,800,,,,Bottom,,magic mountain,vt,0,0,
+Operating,Double,Double,700,625,3160,500,Bottom,6.3,magic mountain,id,0,0,
+Operating,Village Gondola,Gondola 15,3600,282,5106,1200,Top,4.3,mammoth,ca,1,0,114
+Operating,9 Cloud Nine Express,High Speed Six,3000,1650,5354,1000,Top,5.4,mammoth,ca,1,0,114
+Operating,15 Eagle Express,High Speed Six,2880,956,5354,1000,Top,5.4,mammoth,ca,1,0,114
+Operating,1 Broadway Express,High Speed Quad,2800,960,3210,850,Top,3.8,mammoth,ca,1,0,114
+Operating,2 Stump Alley Express,High Speed Quad,2800,1068,4518,1000,Top,4.5,mammoth,ca,1,0,114
+Operating,10 Gold Rush Express,High Speed Quad,2800,1139,5750,1000,Top,5.8,mammoth,ca,1,0,114
+Operating,Panorama Gondola Lower,Gondola 8,2400,717,3875,1200,Top,3.2,mammoth,ca,1,0,114
+Operating,Panorama Gondola Upper,Gondola 8,2400,1406,4491,1200,Bottom,3.7,mammoth,ca,1,0,114
+Operating,3 Face Lift Express,High Speed Quad,2400,907,2568,1000,Bottom,2.6,mammoth,ca,1,0,114
+Operating,4 Roller Coaster Express,High Speed Quad,2400,826,3745,1000,Top,3.7,mammoth,ca,1,0,114
+Operating,5 High Five Express,High Speed Quad,2400,1068,2888,1000,Top,2.9,mammoth,ca,1,0,114
+Operating,6 Unbound Express,High Speed Quad,2400,632,2617,1000,Top,2.6,mammoth,ca,1,0,114
+Operating,11 Discovery Express,High Speed Quad,2400,556,1875,1000,Top,1.9,mammoth,ca,1,0,114
+Operating,16 Canyon Express,High Speed Quad,2400,1250,5665,900,Top,6.3,mammoth,ca,1,0,114
+Operating,Chair 25,Quad,2400,1336,4358,450,Top,9.7,mammoth,ca,1,0,114
+Operating,17 Schoolyard Express,High Speed Quad,2250,524,3123,1000,Top,3.1,mammoth,ca,1,0,114
+Operating,Chair 22,Triple,2000,1450,3638,525,Top,6.9,mammoth,ca,1,0,114
+Operating,Chair 23,Triple,2000,1121,2741,525,Bottom,5.2,mammoth,ca,1,0,114
+Operating,Chair 7,Triple,1800,382,2361,400,Top,5.9,mammoth,ca,1,0,114
+Operating,Chair 20,Triple,1800,454,2550,450,Top,5.7,mammoth,ca,1,0,114
+Operating,Chair 21,Triple,1800,452,2725,450,Top,6,mammoth,ca,1,0,114
+Operating,Chair 12,Double,1200,727,3058,470,Bottom,6.5,mammoth,ca,1,0,114
+Operating,Chair 13,Double,1200,404,2299,470,Bottom,4.9,mammoth,ca,1,0,114
+Operating,Chair 14,Double,1200,1074,3394,470,Bottom,7.2,mammoth,ca,1,0,114
+Operating,Chair 8,Triple,1100,1000,3800,500,Top,9.5,mammoth,ca,1,0,114
+Operating,Triple,Triple,1800,274,1866,350,Bottom,5.3,maple ski ridge,ny,0,0,
+Operating,Double,Double,1200,165,991,420,Bottom,2.4,maple ski ridge,ny,0,0,
+Operating,2 Snowfield,Triple,1800,,,,Top,,marquette mountain,mi,0,0,
+Operating,1 Rocket,Double,1200,517,2556,450,Top,5.7,marquette mountain,mi,0,0,
+Operating,3 River,Double,1096,,,,Top,,marquette mountain,mi,0,0,
+Operating,Crow's Nest,Double,1000,162,980,340,Bottom,2.9,mcintyre,nh,0,0,
+Operating,Hawk's Nest,Double,1000,164,1000,340,Bottom,2.9,mcintyre,nh,0,0,
+Operating,Little Chief,Double,1096,,,,Bottom,,meadowlark,wy,0,0,
+Operating,Cloud Peak,Triple,1618,,,,Bottom,,meadowlark,wy,0,0,
+Operating,Bailey Falls,Triple,1300,980,4395,500,Bottom,8.8,middlebury college snowbowl,vt,0,0,
+Operating,Worth Mountain,Triple,1200,824,3860,500,Bottom,7.7,middlebury college snowbowl,vt,0,0,
+Operating,Sheehan,Double,1000,415,1802,460,Bottom,3.9,middlebury college snowbowl,vt,0,0,
+Operating,Wenatchee Express,High Speed Quad,2000,,,,Top,,mission ridge,wa,0,0,54
+Operating,Chair 1,Double,1200,543,3480,450,Bottom,7.7,mission ridge,wa,0,0,54
+Operating,Chair 3,Double,970,1180,3500,,Bottom,,mission ridge,wa,0,0,54
+Operating,Chair 4,Double,940,1173,4208,500,Bottom,8.4,mission ridge,wa,0,0,54
+Operating,Boulder Summit,Triple,1800,560,2882,400,Bottom,7.2,mohawk mountain,ct,0,0,
+Operating,Arrowhead,Triple,1500,,,,Bottom,,mohawk mountain,ct,0,0,
+Operating,Deer Run,Triple,1500,,,,Bottom,,mohawk mountain,ct,0,0,
+Operating,Mohawk,Triple,1500,,,,Top,,mohawk mountain,ct,0,0,
+Operating,Nutmeg,Triple,1500,,,,Bottom,,mohawk mountain,ct,0,0,
+Operating,Pioneer,Quad,2400,805,3630,450,Bottom,8.1,monarch mountain,co,0,0,
+Operating,Garfield,Double,1200,840,2888,500,Bottom,5.8,monarch mountain,co,0,0,
+Operating,Panorama,Double,1200,789,3176,488,Bottom,6.5,monarch mountain,co,0,0,
+Operating,Tumbelina,Double,1200,326,1350,488,Bottom,2.8,monarch mountain,co,0,0,
+Operating,Breezeway,Double,1000,845,3350,500,Bottom,6.7,monarch mountain,co,0,0,
+Operating,Husky,Double,1000,420,1833,465,Bottom,3.9,mont ripley,mi,0,0,
+Operating,Copper Hoist,Double,1096,,,,Bottom,,mont ripley,mi,0,0,
+Operating,Phoebe Snow,Quad,2400,610,2300,400,Top,5.8,montage mountain,pa,0,0,53
+Operating,Iron Horse,Triple,1800,500,2600,400,Bottom,6.5,montage mountain,pa,0,0,53
+Operating,Long Haul,Triple,1800,1000,4730,450,Top,10.5,montage mountain,pa,0,0,53
+Operating,Shuttle,Triple,1800,450,2600,375,Bottom,6.9,montage mountain,pa,0,0,53
+Operating,Short Haul,Double,1000,50,280,275,Top,1,montage mountain,pa,0,0,53
+Operating,LaValle Creek,Double,1200,972,3071,450,Top,6.8,montana snowbowl,mt,0,0,
+Operating,Transporter,Triple,1200,1694,3896,450,Bottom,8.7,montana snowbowl,mt,0,0,
+Operating,Grizzly,Double,1150,1970,5350,430,Top,12.4,montana snowbowl,mt,0,0,
+Operating,Snow Park,Double,1096,,,,Top,,montana snowbowl,mt,0,0,
+Operating,11 Mountain High Express,High Speed Quad,3000,1589,5649,1000,,5.6,mountain high,ca,0,0,
+Operating,4 Blue Ridge Express,High Speed Quad,2800,994,3500,1000,,3.5,mountain high,ca,0,0,
+Operating,8 Discovery,Quad,2400,265,1487,325,,4.6,mountain high,ca,0,0,
+Operating,Sunrise,Quad,2400,304,1578,315,Top,6.1,mountain high,ca,0,0,
+Operating,3 Snowflake,Triple,1800,159,1079,370,Bottom,2.9,mountain high,ca,0,0,
+Operating,5 Conquest,Triple,1800,998,3500,460,Bottom,7.6,mountain high,ca,0,0,
+Operating,1 Coyote,Double,1200,354,2095,450,Top,4.7,mountain high,ca,0,0,
+Operating,2 Roadrunner,Double,1200,358,2120,450,Top,4.7,mountain high,ca,0,0,
+Operating,6 Exhibition,Double,1200,673,2040,475,Bottom,4.3,mountain high,ca,0,0,
+Operating,10 Easy Rider,Double,1200,74,838,315,Bottom,2.7,mountain high,ca,0,0,
+Operating,9 Competition,Double,1100,1080,3560,450,Bottom,7.9,mountain high,ca,0,0,
+Operating,Skyline,Double,1000,,3300,,,,mt abram,me,0,0,
+Operating,The Wayback Machine,Double,1000,1037,4121,500,,8.2,mt abram,me,0,0,
+Operating,Comer,Triple,1800,388,1285,400,Bottom,3.2,mt ashland,or,0,0,
+Operating,Windsor,Double,1200,751,2050,500,Bottom,4.1,mt ashland,or,0,0,
+Operating,Sonnet,Triple,1200,101,899,305,Bottom,2.9,mt ashland,or,0,0,
+Operating,Ariel,Double,1080,1088,2960,500,Bottom,5.9,mt ashland,or,0,0,
+Operating,Northwest Express,High Speed Quad,2800,2336,8545,1000,Top,8.5,mt bachelor,or,1,0,79
+Operating,Outback Express,High Speed Quad,2800,1781,6991,1000,Top,7,mt bachelor,or,1,0,79
+Operating,Pine Marten Express,High Speed Quad,2800,1363,4778,1000,Top,4.8,mt bachelor,or,1,0,79
+Operating,Skyliner Express,High Speed Quad,2800,1306,5807,1000,Top,5.8,mt bachelor,or,1,0,79
+Operating,Summit Express,High Speed Quad,2800,1710,4845,1024,Bottom,4.7,mt bachelor,or,1,0,79
+Operating,Cloudchaser,High Speed Quad,2400,1449,6745,1000,Bottom,6.8,mt bachelor,or,1,0,79
+Operating,Little Pine,High Speed Quad,2200,253,1888,886,Top,2.1,mt bachelor,or,1,0,79
+Operating,Early Riser,Quad,1863,70,639,250,Bottom,2.6,mt bachelor,or,1,0,79
+Operating,Sunrise Express,High Speed Quad,1800,808,3732,886,Top,4.2,mt bachelor,or,1,0,79
+Operating,Rainbow,Triple,1600,1229,5545,500,Bottom,11.1,mt bachelor,or,1,0,79
+Operating,Red,Triple,1600,1167,4063,500,Bottom,8.1,mt bachelor,or,1,0,79
+Operating,Alpenglow,Triple,1618,171,,,Bottom,,mt bachelor,or,1,0,79
+Operating,Chair 7,Quad,2010,583,2346,450,Bottom,5.2,mt baker,wa,0,0,50
+Operating,Chair 5,Quad,2000,1271,2734,450,Bottom,6.1,mt baker,wa,0,0,50
+Operating,Chair 6,Quad,1800,1357,3855,500,Bottom,7.7,mt baker,wa,0,0,50
+Operating,Chair 8,Quad,1800,1258,4409,450,Bottom,9.8,mt baker,wa,0,0,50
+Operating,Chair 2,Quad,1500,315,2089,450,Bottom,4.6,mt baker,wa,0,0,50
+Operating,Chair 3,Quad,1400,906,3037,450,Bottom,6.7,mt baker,wa,0,0,50
+Operating,Chair 1,Quad,1200,813,3408,450,Bottom,7.6,mt baker,wa,0,0,50
+Operating,Chair 3,Double,1400,1020,2691,450,Bottom,6,mt baldy,ca,0,0,
+Operating,Chair 4,Double,1000,733,3464,450,Bottom,7.7,mt baldy,ca,0,0,
+Operating,Chair 2,Double,440,251,733,450,Top,1.6,mt baldy,ca,0,0,
+Operating,Chair 1,Double,1096,1220,4000,,Top,,mt baldy,ca,0,0,
+Operating,Honey Pot Hoist,Double,1096,,,,Bottom,,mt bohemia,mi,0,0,
+Operating,Mountain Dew Hoist,Triple,1618,,,,Bottom,,mt bohemia,mi,0,0,
+Operating,Chair 3,Quad,2400,148,742,400,Bottom,1.9,mt brighton,mi,0,1,
+Operating,Chair 4,Quad,2400,151,751,400,Bottom,1.9,mt brighton,mi,0,1,
+Operating,Chair 1,Triple,1800,171,977,350,Bottom,2.8,mt brighton,mi,0,1,
+Operating,Chair 2,Triple,1800,187,1320,350,Bottom,3.8,mt brighton,mi,0,1,
+Operating,Chair 5,Triple,1618,,,,Bottom,,mt brighton,mi,0,1,
+Operating,Blue,Double,1096,,,,Bottom,,mt holiday,mi,0,0,
+Operating,Yellow,Double,1096,,,,Bottom,,mt holiday,mi,0,0,
+Operating,Mach 1 Express,High Speed Quad,2100,243,1465,900,Bottom,1.6,mt holly,mi,0,0,
+Operating,Lift 2,Quad,2100,255,1470,400,Bottom,3.7,mt holly,mi,0,0,
+Operating,Lift 4,Quad,2000,183,1158,360,Bottom,3.2,mt holly,mi,0,0,
+Operating,Lift 5,Triple,1800,229,988,400,Bottom,2.5,mt holly,mi,0,0,
+Operating,Lift 7,Triple,1800,259,1431,400,Bottom,3.6,mt holly,mi,0,0,
+Operating,Lift 6,Triple,1500,283,1648,460,Bottom,3.6,mt holly,mi,0,0,
+Operating,Lift 1,Double,1000,199,1321,465,Bottom,2.8,mt holly,mi,0,0,
+Operating,Cascade Express,High Speed Quad,2800,1391,5561,1000,,5.6,mt hood,or,0,0,76
+Operating,Cascade Express,High Speed Quad,2800,1391,5561,1000,,5.6,mt hood,or,0,0,45
+Operating,Cascade Express,High Speed Quad,2800,1391,5561,1000,,5.6,mt hood,or,0,0,26
+Operating,Mount Hood Express,High Speed Quad,2800,1180,4460,1000,Top,4.5,mt hood,or,0,0,76
+Operating,Mount Hood Express,High Speed Quad,2800,1180,4460,1000,Top,4.5,mt hood,or,0,0,45
+Operating,Mount Hood Express,High Speed Quad,2800,1180,4460,1000,Top,4.5,mt hood,or,0,0,26
+Operating,Hodag,Quad,2200,695,2127,450,Top,4.7,mt hood,or,0,0,76
+Operating,Hodag,Quad,2200,695,2127,450,Top,4.7,mt hood,or,0,0,45
+Operating,Hodag,Quad,2200,695,2127,450,Top,4.7,mt hood,or,0,0,26
+Operating,Shooting Star Express,High Speed Quad,2180,935,4229,1200,Top,3.5,mt hood,or,0,0,76
+Operating,Shooting Star Express,High Speed Quad,2180,935,4229,1200,Top,3.5,mt hood,or,0,0,45
+Operating,Shooting Star Express,High Speed Quad,2180,935,4229,1200,Top,3.5,mt hood,or,0,0,26
+Operating,Buttercup,Quad,2067,153,982,400,Top,2.5,mt hood,or,0,0,76
+Operating,Buttercup,Quad,2067,153,982,400,Top,2.5,mt hood,or,0,0,45
+Operating,Buttercup,Quad,2067,153,982,400,Top,2.5,mt hood,or,0,0,26
+Operating,Stadium Express,High Speed Quad,2000,581,2800,1000,Bottom,2.8,mt hood,or,0,0,76
+Operating,Stadium Express,High Speed Quad,2000,581,2800,1000,Bottom,2.8,mt hood,or,0,0,45
+Operating,Stadium Express,High Speed Quad,2000,581,2800,1000,Bottom,2.8,mt hood,or,0,0,26
+Operating,Vista Express,High Speed Quad,1963,1119,5494,1200,Bottom,4.6,mt hood,or,0,0,76
+Operating,Vista Express,High Speed Quad,1963,1119,5494,1200,Bottom,4.6,mt hood,or,0,0,45
+Operating,Vista Express,High Speed Quad,1963,1119,5494,1200,Bottom,4.6,mt hood,or,0,0,26
+Operating,Hood River Express,High Speed Quad,1840,1405,5945,1100,Top,5.4,mt hood,or,0,0,76
+Operating,Hood River Express,High Speed Quad,1840,1405,5945,1100,Top,5.4,mt hood,or,0,0,45
+Operating,Hood River Express,High Speed Quad,1840,1405,5945,1100,Top,5.4,mt hood,or,0,0,26
+Operating,Green Machine,Quad,1800,1029,3635,450,Bottom,8.1,mt hood,or,0,0,76
+Operating,Green Machine,Quad,1800,1029,3635,450,Bottom,8.1,mt hood,or,0,0,45
+Operating,Green Machine,Quad,1800,1029,3635,450,Bottom,8.1,mt hood,or,0,0,26
+Operating,Manzanita,Triple,1800,373,1711,450,Bottom,3.8,mt hood,or,0,0,76
+Operating,Manzanita,Triple,1800,373,1711,450,Bottom,3.8,mt hood,or,0,0,45
+Operating,Manzanita,Triple,1800,373,1711,450,Bottom,3.8,mt hood,or,0,0,26
+Operating,Daisy,Double,1616,675,3505,500,Bottom,7,mt hood,or,0,0,76
+Operating,Daisy,Double,1616,675,3505,500,Bottom,7,mt hood,or,0,0,45
+Operating,Daisy,Double,1616,675,3505,500,Bottom,7,mt hood,or,0,0,26
+Operating,Ed,Quad,1400,662,2258,450,Top,5,mt hood,or,0,0,76
+Operating,Ed,Quad,1400,662,2258,450,Top,5,mt hood,or,0,0,45
+Operating,Ed,Quad,1400,662,2258,450,Top,5,mt hood,or,0,0,26
+Operating,Easy Rider,Double,1200,66,791,300,Bottom,2.6,mt hood,or,0,0,76
+Operating,Easy Rider,Double,1200,66,791,300,Bottom,2.6,mt hood,or,0,0,45
+Operating,Easy Rider,Double,1200,66,791,300,Bottom,2.6,mt hood,or,0,0,26
+Operating,Blue,Double,1200,1156,4120,,Bottom,,mt hood,or,0,0,76
+Operating,Blue,Double,1200,1156,4120,,Bottom,,mt hood,or,0,0,45
+Operating,Blue,Double,1200,1156,4120,,Bottom,,mt hood,or,0,0,26
+Operating,Easy Rider,Double,1200,433,2341,450,,5.2,mt hood,or,0,0,76
+Operating,Easy Rider,Double,1200,433,2341,450,,5.2,mt hood,or,0,0,45
+Operating,Easy Rider,Double,1200,433,2341,450,,5.2,mt hood,or,0,0,26
+Operating,Cascade,Double,1150,,1904,450,Bottom,4.2,mt hood,or,0,0,76
+Operating,Cascade,Double,1150,,1904,450,Bottom,4.2,mt hood,or,0,0,45
+Operating,Cascade,Double,1150,,1904,450,Bottom,4.2,mt hood,or,0,0,26
+Operating,Lower Bowl,Double,1150,716,3480,500,Bottom,7,mt hood,or,0,0,76
+Operating,Lower Bowl,Double,1150,716,3480,500,Bottom,7,mt hood,or,0,0,45
+Operating,Lower Bowl,Double,1150,716,3480,500,Bottom,7,mt hood,or,0,0,26
+Operating,Upper Bowl,Double,1120,,,450,Bottom,,mt hood,or,0,0,76
+Operating,Upper Bowl,Double,1120,,,450,Bottom,,mt hood,or,0,0,45
+Operating,Upper Bowl,Double,1120,,,450,Bottom,,mt hood,or,0,0,26
+Operating,Heather Canyon,Double,1096,705,,,Top,6.5,mt hood,or,0,0,76
+Operating,Multorpor,Double,1096,,,,Bottom,,mt hood,or,0,0,26
+Operating,Chair 7,Quad,2150,192,969,370,Bottom,2.6,mt kato,mn,0,0,
+Operating,Chair 2,Quad,1950,192,704,360,Bottom,2,mt kato,mn,0,0,
+Operating,Chair 3,Quad,1950,177,611,360,Bottom,1.7,mt kato,mn,0,0,
+Operating,Chair 5,Double,1200,162,1159,400,Bottom,2.9,mt kato,mn,0,0,
+Operating,Chair 4,Double,1000,86,647,340,Bottom,1.9,mt kato,mn,0,0,
+Operating,Chair 1,Double,1096,,,,Bottom,,mt kato,mn,0,0,
+Operating,Chair 6,Quad,1961,,,,Bottom,,mt kato,mn,0,0,
+Operating,Chair 8,Quad,1961,,,,Bottom,,mt kato,mn,0,0,
+Operating,The Patriot,Quad,1600,233,1242,375,Bottom,3.3,mt peter,ny,0,0,
+Operating,Ol' Pete,Double,1200,253,1270,465,Bottom,2.7,mt peter,ny,0,0,
+Operating,The Comet,Double,1096,,,400,Bottom,,mt peter,ny,0,0,
+Operating,Northwest Express,High Speed Six,3000,1315,3932,1100,Top,3.6,mt rose,nv,0,0,93
+Operating,Lakeview Express,High Speed Quad,2400,1056,3388,1000,Bottom,3.4,mt rose,nv,0,0,93
+Operating,Zephyr Express,High Speed Six,2400,1303,3938,1100,Top,3.6,mt rose,nv,0,0,93
+Operating,Chuter,Quad,2400,526,2360,450,Top,5.2,mt rose,nv,0,0,93
+Operating,Galena,Triple,1800,389,2833,450,Bottom,6.3,mt rose,nv,0,0,93
+Operating,Wizard,Quad,1961,,,,Bottom,,mt rose,nv,0,0,93
+Operating,Coyote,Triple,1800,1117,3501,500,Bottom,7,mt shasta,ca,0,0,
+Operating,Douglas,Triple,1800,1112,3206,500,Bottom,6.4,mt shasta,ca,0,0,
+Operating,Marmot,Triple,1800,688,3590,500,Bottom,7.2,mt shasta,ca,0,0,
+Operating,Gray Butte,Quad,1700,1155,4222,450,Bottom,9.4,mt shasta,ca,0,0,
+Operating,Grand Summit Express,High Speed Quad,3000,1600,7320,1000,Top,7.3,mt snow,vt,0,1,81
+Operating,Sundance Express,High Speed Six,3000,1434,6915,1000,,6.9,mt snow,vt,0,1,81
+Operating,Canyon Express,High Speed Quad,2700,1007,5506,1100,Top,5,mt snow,vt,0,1,81
+Operating,Sunbrook Express,High Speed Quad,2400,896,4392,1000,,4.4,mt snow,vt,0,1,81
+Operating,Bluebird Express,High Speed Six,2400,1604,7236,1000,Top,7.2,mt snow,vt,0,1,81
+Operating,Nitro Express,High Speed Quad,2100,992,5029,900,Top,5.6,mt snow,vt,0,1,81
+Operating,Ego Alley,Triple,2000,1006,4806,550,Top,8.7,mt snow,vt,0,1,81
+Operating,Challenger,Triple,1980,1024,3700,560,Top,6.6,mt snow,vt,0,1,81
+Operating,Seasons,Double,1200,80,485,340,Bottom,1.4,mt snow,vt,0,1,81
+Operating,Heavy Metal,Triple,1200,574,3239,450,Top,7.2,mt snow,vt,0,1,81
+Operating,Bear Trap,Double,1000,373,977,500,Top,2,mt snow,vt,0,1,81
+Operating,Discovery Shuttle,Triple,1000,45,350,300,Top,1.2,mt snow,vt,0,1,81
+Operating,Outpost,Triple,1000,1050,3939,,Top,,mt snow,vt,0,1,81
+Operating,Stardust,Triple,1800,345,2156,450,Bottom,4.8,mt southington,ct,0,0,
+Operating,Thunderbolt,Triple,1500,,,,Bottom,,mt southington,ct,0,0,
+Operating,Northstar,Double,1200,,,,Bottom,,mt southington,ct,0,0,
+Operating,Avalanche,Double,1000,,,,Bottom,,mt southington,ct,0,0,
+Operating,3 Parkway Express,Double,1200,924,3745,450,Bottom,8.3,mt spokane,wa,0,0,
+Operating,5 Beginner's Luck,Double,1200,165,1115,300,Top,3.7,mt spokane,wa,0,0,
+Operating,6 Northwood,Triple,1200,1439,4612,500,Top,9.2,mt spokane,wa,0,0,
+Operating,4 Hidden Treasure,Double,1160,1473,4188,450,Top,9.3,mt spokane,wa,0,0,
+Operating,1 Vista Cruiser,Double,1096,1530,4380,,Top,,mt spokane,wa,0,0,
+Operating,2 Illuminator,Double,1096,1298,3780,,Bottom,,mt spokane,wa,0,0,
+Operating,Chair 1,Double,1200,911,2059,400,Bottom,5.1,mt waterman,ca,0,0,
+Operating,Chair 3,Double,1200,410,1057,410,Top,2.6,mt waterman,ca,0,0,
+Operating,Chair 2,Double,1096,,,,Top,,mt waterman,ca,0,0,
+Operating,Chief,Triple,1800,235,1018,375,Bottom,2.7,nashoba valley,ma,0,0,
+Operating,Sundance,Triple,1500,,,,Bottom,,nashoba valley,ma,0,0,
+Operating,Wardance,Triple,1500,,,,Bottom,,nashoba valley,ma,0,0,
+Operating,Snowdance,Double,1000,,,,Bottom,,nashoba valley,ma,0,0,
+Operating,Nordic Express,High Speed Six,2000,1384,4213,1000,Top,4.2,nordic valley,ut,0,0,
+Operating,Apollo,Double,1000,1110,3113,410,Bottom,7.6,nordic valley,ut,0,0,
+Operating,Bridger,Double,800,244,1309,350,Bottom,3.7,nordic valley,ut,0,0,
+Operating,Crocket,Triple,1618,,,,Top,,nordic valley,ut,0,0,
+Operating,Comstock Express,High Speed Six,3200,1245,5632,1000,Top,5.6,northstar,ca,0,1,120
+Operating,Arrow Express,High Speed Quad,2800,535,3114,889,Bottom,3.5,northstar,ca,0,1,120
+Operating,Vista Express,High Speed Quad,2800,1176,5611,1000,Bottom,5.6,northstar,ca,0,1,120
+Operating,Backside Express,High Speed Quad,2570,1846,6034,1000,Top,6,northstar,ca,0,1,120
+Operating,Tahoe Zephyr Express,Chondola 6/8,2400,1064,5106,1000,Top,5.1,northstar,ca,0,1,120
+Operating,Martis Camp Express,High Speed Quad,2400,1254,3175,1000,Top,3.2,northstar,ca,0,1,120
+Operating,Promised Land Express,High Speed Quad,2400,1453,4673,1000,Top,4.7,northstar,ca,0,1,120
+Operating,Village Express,High Speed Quad,2400,690,4622,1000,Top,4.6,northstar,ca,0,1,120
+Operating,The Big Easy,Quad,2372,160,1036,400,Bottom,2.6,northstar,ca,0,1,120
+Operating,Big Springs Gondola,Gondola 6,1800,,,,Top,,northstar,ca,0,1,120
+Operating,Rendezvous,Triple,1800,646,2920,450,Bottom,6.5,northstar,ca,0,1,120
+Operating,Highlands Gondola,Pulse Gondola,440,584,3450,800,Bottom,4.3,northstar,ca,0,1,120
+Operating,Timberline,Triple,1618,,,,Top,,northstar,ca,0,1,120
+Operating,Black,Quad,2400,293,1459,400,Bottom,3.6,nubs nob,mi,0,0,
+Operating,Green,Quad,2400,398,1735,400,Top,4.3,nubs nob,mi,0,0,
+Operating,Red,Quad,2400,287,1621,425,Bottom,3.8,nubs nob,mi,0,0,
+Operating,Brown,Triple,1800,312,1744,425,Bottom,4.1,nubs nob,mi,0,0,
+Operating,Orange,Triple,1800,380,2273,425,Top,5.3,nubs nob,mi,0,0,
+Operating,Yellow,Triple,1800,376,1370,400,Bottom,3.4,nubs nob,mi,0,0,
+Operating,Purple,Double,900,256,1290,500,Bottom,2.6,nubs nob,mi,0,0,
+Operating,Gray,Triple,1618,,,,Bottom,,nubs nob,mi,0,0,
+Operating,Quantum Six,High Speed Six,3000,1261,4938,1000,Bottom,4.9,okemo,vt,0,1,86
+Operating,Sunburst Six,High Speed Six,3000,1670,6617,1000,Top,6.6,okemo,vt,0,1,86
+Operating,Coleman Brook Express,High Speed Quad,2400,390,2530,1000,Top,2.5,okemo,vt,0,1,86
+Operating,Solitude Express,High Speed Quad,2400,1115,4744,1000,Bottom,4.7,okemo,vt,0,1,86
+Operating,South Face Express,High Speed Quad,2400,1070,4662,1100,Top,4.2,okemo,vt,0,1,86
+Operating,South Ridge A,Quad,2400,416,2673,500,Bottom,5.3,okemo,vt,0,1,86
+Operating,South Ridge B,Quad,2400,414,2743,450,Bottom,6.1,okemo,vt,0,1,86
+Operating,Sunshine,Quad,2400,454,2774,450,Bottom,6.2,okemo,vt,0,1,86
+Operating,Glades Peak,Quad,2300,1023,3926,500,Bottom,7.9,okemo,vt,0,1,86
+Operating,Evergreen Summit Express,High Speed Quad,2180,1020,4131,1000,Bottom,4.1,okemo,vt,0,1,86
+Operating,Sachem,Quad,2100,967,4535,500,Bottom,9.1,okemo,vt,0,1,86
+Operating,Black Ridge,Triple,1800,718,2779,500,Bottom,5.6,okemo,vt,0,1,86
+Operating,Morning Star,Triple,1800,718,2779,500,Bottom,5.6,okemo,vt,0,1,86
+Operating,Chair 3,Quad,1500,275,1278,400,Bottom,3.2,otsego,mi,0,0,
+Operating,Chair 5,Triple,1500,316,1784,500,Top,3.6,otsego,mi,0,0,
+Operating,Chair 1,Double,1096,,,,Top,3.1,otsego,mi,0,0,
+Operating,Chair 2,Double,1096,,,,Bottom,2,otsego,mi,0,0,
+Operating,Chair 4,Double,1096,,,,Bottom,,otsego,mi,0,0,
+Operating,Townsight,Quad,1650,1021,3285,465,Bottom,7.1,pajarito mountain,nm,0,0,
+Operating,Aspen,Triple,1550,1143,3450,455,Bottom,7.6,pajarito mountain,nm,0,0,
+Operating,Beginner,Double,1200,269,1105,350,Bottom,3.2,pajarito mountain,nm,0,0,
+Operating,Mother,Double,1200,1184,3592,500,Bottom,7.2,pajarito mountain,nm,0,0,
+Operating,Spruce,Double,1200,909,3136,500,Bottom,6.3,pajarito mountain,nm,0,0,
+Operating,King Con Express,High Speed Six,3400,1216,4438,1000,Top,4.4,park city,ut,0,1,97
+Operating,Tombstone Express,High Speed Six,3200,1734,6566,1000,Top,6.6,park city,ut,0,1,97
+Operating,Cabriolet,Cabriolet 8,3000,193,2705,800,Bottom,3.4,park city,ut,0,1,97
+Operating,Bonanza Express,High Speed Six,3000,1122,5318,1000,Top,5.3,park city,ut,0,1,97
+Operating,Payday Express,High Speed Six,3000,1278,5726,1000,Top,5.7,park city,ut,0,1,97
+Operating,Silverlode Express,High Speed Six,3000,1322,5370,984,Top,5.5,park city,ut,0,1,97
+Operating,Red Pine Gondola,Gondola 8,2800,1119,6679,1000,Top,6.7,park city,ut,0,1,97
+Operating,Saddleback Express,High Speed Quad,2800,1121,4269,1000,Bottom,4.3,park city,ut,0,1,97
+Operating,Sun Peak Express,High Speed Quad,2800,1087,3729,1000,Top,3.7,park city,ut,0,1,97
+Operating,Super Condor Express,High Speed Quad,2650,1798,6910,1070,Top,6.5,park city,ut,0,1,97
+Operating,Crescent Express,High Speed Quad,2400,1743,7200,1000,Top,7.2,park city,ut,0,1,97
+Operating,First Time Express,High Speed Quad,2400,276,1823,1000,Top,1.8,park city,ut,0,1,97
+Operating,Iron Mountain Express,High Speed Quad,2400,1484,5181,1000,Top,5.2,park city,ut,0,1,97
+Operating,Ninety Nine 90 Express,High Speed Quad,2400,1563,6680,1070,Bottom,6.2,park city,ut,0,1,97
+Operating,Orange Bubble Express,High Speed Quad,2400,1523,8709,1000,Top,8.7,park city,ut,0,1,97
+Operating,McConkey's Express,High Speed Six,2400,1172,5260,1000,Top,5.3,park city,ut,0,1,97
+Operating,Timberline,Quad,2400,360,2229,450,Bottom,5,park city,ut,0,1,97
+Operating,High Meadow Express,High Speed Quad,2000,278,1965,1000,Bottom,2,park city,ut,0,1,97
+Operating,Motherlode Express,High Speed Quad,2000,,,,,,park city,ut,0,1,97
+Operating,Dreamcatcher,Quad,1800,1533,4619,475,Top,9.7,park city,ut,0,1,97
+Operating,Over and Out,Quad,1800,278,2412,450,Top,5.4,park city,ut,0,1,97
+Operating,3 Kings,Triple,1800,439,2176,500,Top,4.4,park city,ut,0,1,97
+Operating,Pioneer,Triple,1800,968,3720,500,Top,7.4,park city,ut,0,1,97
+Operating,Town,Triple,1800,1232,6665,500,Top,13.3,park city,ut,0,1,97
+Operating,Peak 5,Quad,1700,1038,2815,465,Bottom,6.1,park city,ut,0,1,97
+Operating,Quicksilver Gondola,Gondola 8,1500,1686,7767,1000,Top,7.8,park city,ut,0,1,97
+Operating,Flat Iron,Double,1200,4,1641,500,Bottom,3.3,park city,ut,0,1,97
+Operating,Jupiter,Double,1200,1000,3315,500,Bottom,6.6,park city,ut,0,1,97
+Operating,Thaynes,Double,1200,850,2800,500,Top,5.6,park city,ut,0,1,97
+Operating,Eagle,Triple,1200,1155,2515,500,Top,5,park city,ut,0,1,97
+Operating,Frostwood Gondola,Pulse Gondola 6,460,166,1963,800,Bottom,2.5,park city,ut,0,1,97
+Operating,Sunrise,Double,1096,,,,Top,,park city,ut,0,1,97
+Operating,Dreamscape,Quad,1961,,,,Bottom,,park city,ut,0,1,97
+Operating,Day Break,Triple,1618,,,,Top,,park city,ut,0,1,97
+Operating,Short Cut,Triple,1618,,,,Top,,park city,ut,0,1,97
+Operating,Silverstar,Triple,1618,,,,Top,,park city,ut,0,1,97
+Operating,Hurricane,Triple,1800,677,2888,450,Bottom,6.4,pats peak,nh,0,0,
+Operating,Peak,Triple,1600,,,,Bottom,,pats peak,nh,0,0,
+Operating,Cascade Basin,Triple,1500,,,,Bottom,,pats peak,nh,0,0,
+Operating,Turbulence,Triple,1500,359,2097,425,Bottom,4.9,pats peak,nh,0,0,
+Operating,Valley,Double,1200,329,2350,400,Bottom,5.9,pats peak,nh,0,0,
+Operating,Vortex,Double,1150,,,,Bottom,,pats peak,nh,0,0,
+Operating,Sunshine,Triple,1400,1145,3035,460,Bottom,6.6,pebble creek,id,0,0,
+Operating,Skyline,Triple,1618,,,,Bottom,,pebble creek,id,0,0,
+Operating,Aspen,Triple,1618,,,,Top,,pebble creek,id,0,0,
+Operating,Chair 1,Triple,1800,310,2002,350,Bottom,5.7,peekn peak,ny,0,0,
+Operating,Chair 2,Triple,1800,310,2002,350,Bottom,5.7,peekn peak,ny,0,0,
+Operating,Chair 3,Triple,1800,292,1990,350,Bottom,5.7,peekn peak,ny,0,0,
+Operating,Chair 6,Triple,1800,341,1950,400,Bottom,4.9,peekn peak,ny,0,0,
+Operating,Chair 7,Triple,1800,341,1950,400,Bottom,4.9,peekn peak,ny,0,0,
+Operating,Chair 8,Triple,1800,295,1475,400,Bottom,3.7,peekn peak,ny,0,0,
+Operating,Chair 4,Double,1000,97,650,350,Bottom,1.9,peekn peak,ny,0,0,
+Operating,Chair 5,Double,1000,63,480,350,Bottom,1.4,peekn peak,ny,0,0,
+Operating,Golden Express,High Speed Quad,2400,836,4400,1000,Bottom,4.4,pico,vt,0,0,
+Operating,Summit Express,High Speed Quad,2400,1565,6160,1000,Top,6.2,pico,vt,0,0,
+Operating,Knomes Knoll,Triple,1800,348,1595,400,Bottom,4,pico,vt,0,0,
+Operating,Little Pico,Triple,1779,635,2201,460,Bottom,4.8,pico,vt,0,0,
+Operating,Outpost,Double,1200,509,1532,445,Bottom,3.4,pico,vt,0,0,
+Operating,Bonanza,Double,1000,100,800,425,Bottom,1.9,pico,vt,0,0,
+Operating,Chair 5,Triple,1800,264,2000,400,Bottom,5,pine knob,mi,0,0,
+Operating,Chair 6,Triple,1800,264,2050,435,Bottom,4.7,pine knob,mi,0,0,
+Operating,Chair 3,Triple,1700,255,1045,435,Bottom,2.4,pine knob,mi,0,0,
+Operating,Chair 2,Triple,1500,260,1205,425,Bottom,2.8,pine knob,mi,0,0,
+Operating,Chair 1,Triple,1200,135,820,350,Bottom,2.3,pine knob,mi,0,0,
+Operating,Hematite,Double,1200,310,1300,450,Top,2.9,pine mountain,mi,0,0,
+Operating,Spruce,Double,1200,346,2850,450,Top,6.3,pine mountain,mi,0,0,
+Operating,Panorama,Triple,1618,,,,Bottom,,pine mountain,mi,0,0,
+Operating,Sunshine,Triple,1800,844,2668,480,Bottom,5.6,plattekill mountain,ny,0,0,
+Operating,Northface Express,Double,1096,,,,Bottom,,plattekill mountain,ny,0,0,
+Operating,Simple Triple,Triple,2000,,,,,,pleasant mountain,me,0,0,
+Operating,Pine Quad,Quad,1800,,,,,,pleasant mountain,me,0,0,
+Operating,Sunnyside Triple,Triple,1600,,,,,,pleasant mountain,me,0,0,
+Operating,Rabbit Run Double,Double,1200,,,,,,pleasant mountain,me,0,0,
+Operating,B Triple Chairlift,Triple,1800,948,4250,500,Bottom,8.5,pomerelle mountain,id,0,0,
+Operating,E-Z Rider,Triple,1300,598,2921,450,Bottom,6.5,pomerelle mountain,id,0,0,
+Operating,Hidden Lake Express,High Speed Quad,2400,1293,5763,1000,Top,5.8,powder mountain,ut,0,0,67
+Operating,Sundown,Quad,2100,575,1955,450,Bottom,4.3,powder mountain,ut,0,0,67
+Operating,Timberline,Triple,1800,780,3300,465,Top,7.1,powder mountain,ut,0,0,67
+Operating,Paradise,Quad,1550,1616,5570,475,Top,11.7,powder mountain,ut,0,0,67
+Operating,Mary's,Quad,1500,870,3965,450,Top,8.8,powder mountain,ut,0,0,67
+Operating,Village,Quad,1500,582,3727,450,Top,8.3,powder mountain,ut,0,0,67
+Operating,Powder Puff,Quad,2400,250,1615,425,Bottom,3.8,powder ridge,mn,0,0,
+Operating,Zonker,Quad,2400,256,1414,375,Bottom,3.8,powder ridge,mn,0,0,
+Operating,Middlefield,Triple,1500,,,,Bottom,,powder ridge,ct,0,0,
+Operating,Mini Field,Double,1200,118,1070,465,Bottom,2.3,powder ridge,ct,0,0,
+Operating,Gun Powder,Double,1200,220,1000,400,Bottom,2.5,powder ridge,mn,0,0,
+Operating,Festival,Double,800,400,2600,,Bottom,,powder ridge,ct,0,0,
+Operating,Flat Top Flyer,High Speed Quad,2400,1612,6128,1000,Top,6.1,powderhorn,co,0,0,
+Operating,Easy Rider,Double,1200,211,1367,450,Top,3,powderhorn,co,0,0,
+Operating,West End,Double,1020,1655,7000,520,Bottom,13.5,powderhorn,co,0,0,
+Operating,1 Purgatory Village Express,High Speed Six,3000,1511,6309,1000,Top,6.3,purgatory,co,0,0,76
+Operating,3 Hermosa Park Express,High Speed Quad,2400,1173,5875,1000,Top,5.9,purgatory,co,0,0,76
+Operating,8 Legends Express,High Speed Quad,2200,1484,4985,1000,Top,5,purgatory,co,0,0,76
+Operating,6 Needles,Triple,1800,1482,5798,475,Top,12.2,purgatory,co,0,0,76
+Operating,7 Graduate,Triple,1800,154,1050,350,Bottom,3,purgatory,co,0,0,76
+Operating,4 Twilight,Double,1400,965,4842,500,Top,9.7,purgatory,co,0,0,76
+Operating,9 Columbine,Triple,1300,76,545,250,Bottom,2.2,purgatory,co,0,0,76
+Operating,5 Grizzly,Double,1200,1234,5686,500,Top,11.4,purgatory,co,0,0,76
+Operating,2 Engineer,Double,950,683,4106,450,Top,9.1,purgatory,co,0,0,76
+Operating,Spear Mountain Express,High Speed Quad,1800,1000,4215,1000,Bottom,4.2,ragged mountain,nh,0,0,
+Operating,Summit Six Express,High Speed Six,1800,1085,4557,1000,Bottom,4.6,ragged mountain,nh,0,0,
+Operating,Barnyard,Triple,1200,,,,Bottom,,ragged mountain,nh,0,0,
+Operating,Cole Creek,High Speed Quad,2400,1443,4068,1000,Bottom,4.1,red lodge mountain,mt,0,0,45
+Operating,Palisades,High Speed Quad,2400,1027,3588,1000,Top,3.6,red lodge mountain,mt,0,0,45
+Operating,Triple Chair,Triple,1750,1119,5075,500,Bottom,10.2,red lodge mountain,mt,0,0,45
+Operating,Miami Beach,Double,1200,470,2217,400,Top,5.5,red lodge mountain,mt,0,0,45
+Operating,Grizzly Peak,Double,1190,1058,3292,450,Bottom,7.3,red lodge mountain,mt,0,0,45
+Operating,Willow Creek,Double,1096,770,3100,,Top,8,red lodge mountain,mt,0,0,45
+Operating,Gold,Triple,1800,150,850,300,Top,2.8,red river,nm,0,0,
+Operating,Platinum,Triple,1800,1514,5590,500,Top,11.2,red river,nm,0,0,
+Operating,Silver,Triple,1800,494,1410,450,Top,3.1,red river,nm,0,0,
+Operating,Emerald,Quad,1712,285,1223,400,Top,3.1,red river,nm,0,0,
+Operating,Copper,Double,1200,1515,5689,500,Top,11.4,red river,nm,0,0,
+Operating,Minuteman,Quad,2400,456,2020,385,Bottom,5.2,roundtop,pa,0,1,
+Operating,Exhibition,Quad,2020,445,1503,425,Bottom,3.5,roundtop,pa,0,1,
+Operating,Drummer Boy,Quad,1800,228,1228,300,Bottom,4.1,roundtop,pa,0,1,
+Operating,Ramrod,Triple,1800,580,2180,450,Bottom,4.8,roundtop,pa,0,1,
+Operating,Fife & Drum,Triple,1000,218,1096,400,Bottom,2.7,roundtop,pa,0,1,
+Operating,Slope,Double,500,116,625,315,Bottom,2,royal mountain,ny,0,0,
+Operating,Double,Double,1096,,,,Bottom,,royal mountain,ny,0,0,
+Operating,Main,Double,1096,,,,Bottom,,royal mountain,ny,0,0,
+Operating,Rangeley,High Speed Quad,2400,1176,4569,1000,Bottom,4.6,saddleback,me,0,0,
+Operating,Sandy,Quad,1600,227,1397,400,Bottom,3.5,saddleback,me,0,0,
+Operating,Kennebago,Quad,1475,960,2709,450,Bottom,6,saddleback,me,0,0,
+Operating,South Branch,Quad,1050,346,2760,400,Bottom,6.9,saddleback,me,0,0,
+Operating,Chair 4,Double,1200,286,1390,500,Bottom,2.8,sandia peak,nm,0,0,47
+Operating,Chair 3,Double,1100,1578,7200,500,Top,14.4,sandia peak,nm,0,0,47
+Operating,Chair 2,Double,800,860,4016,500,Top,8,sandia peak,nm,0,0,47
+Operating,Tram,Tram 50,300,3780,14338,,Bottom,15,sandia peak,nm,0,0,47
+Operating,Great Escape,High Speed Quad,2800,1679,4756,900,,5.3,schweitzer mountain resort,id,1,0,66
+Operating,Stella,High Speed Six,2800,1550,5560,1000,Top,5.6,schweitzer mountain resort,id,1,0,66
+Operating,Basin Express,High Speed Quad,2400,1063,3549,1000,Top,3.7,schweitzer mountain resort,id,1,0,66
+Operating,Cedar Park Express,High Speed Quad,2400,1447,5382,1000,Bottom,5.4,schweitzer mountain resort,id,1,0,66
+Operating,Colburn,Triple,1800,1346,3935,500,Top,7.9,schweitzer mountain resort,id,1,0,66
+Operating,Lakeview,Triple,1800,775,2080,500,Bottom,4.5,schweitzer mountain resort,id,1,0,66
+Operating,Sunnyside,Double,1000,1279,3472,500,Top,6.9,schweitzer mountain resort,id,1,0,66
+Operating,Musical Chairs,Double,1096,592,,,Top,,schweitzer mountain resort,id,1,0,66
+Operating,Polar Bear Express,High Speed Six,3333,515,2350,1000,Top,2.4,seven springs,pa,0,1,
+Operating,Gunnar Express,High Speed Six,3000,740,3000,1000,Top,3,seven springs,pa,0,1,
+Operating,Avalanche,Quad,2400,475,1956,450,Top,4.3,seven springs,pa,0,1,
+Operating,Cortina,Quad,2400,385,1762,350,Top,5,seven springs,pa,0,1,
+Operating,North Face,Quad,1800,374,1550,450,Bottom,3.4,seven springs,pa,0,1,
+Operating,Blitzen,Triple,1800,430,2050,425,Bottom,4.8,seven springs,pa,0,1,
+Operating,Giant Steps,Triple,1800,753,3250,385,Bottom,8.4,seven springs,pa,0,1,
+Operating,Tyrol,Triple,1800,415,1471,390,Bottom,3.8,seven springs,pa,0,1,
+Operating,North Pole,Quad,1961,,,,Bottom,,seven springs,pa,0,1,
+Operating,Southwind,Triple,1618,,,,Bottom,,seven springs,pa,0,1,
+Operating,Pink,Quad,2400,330,1331,425,Bottom,3.1,shanty creek,mi,0,0,
+Operating,Red,Quad,2400,240,1012,425,Bottom,2.4,shanty creek,mi,0,0,
+Operating,Purple,Quad,2000,230,1400,425,Bottom,3.3,shanty creek,mi,0,0,
+Operating,Blue,Quad,1800,340,1268,425,Bottom,3,shanty creek,mi,0,0,
+Operating,Yellow,Quad,1800,322,1938,425,Bottom,4.6,shanty creek,mi,0,0,
+Operating,Black,Double,1200,216,1088,350,Top,3.1,shanty creek,mi,0,0,
+Operating,Green,Double,1200,266,1663,450,Top,3.7,shanty creek,mi,0,0,
+Operating,Tomahawk Express,High Speed Quad,2400,669,2986,1000,Bottom,3,shawnee mountain,pa,0,0,
+Operating,Bushkill,Double,1200,637,3389,450,Bottom,7.5,shawnee mountain,pa,0,0,
+Operating,Little Chief,Double,1200,95,619,450,Bottom,1.4,shawnee mountain,pa,0,0,
+Operating,Lookout,Double,1200,670,3170,450,Bottom,7,shawnee mountain,pa,0,0,
+Operating,Tecumseh,Double,1200,670,3170,450,Bottom,7,shawnee mountain,pa,0,0,
+Operating,Arrowhead,Quad,1961,,,,Bottom,,shawnee mountain,pa,0,0,
+Operating,Pine,Quad,1800,585,2299,450,Bottom,5.1,shawnee peak,me,0,0,
+Operating,Summit Express,Triple,1800,,,,Bottom,,shawnee peak,me,0,0,
+Operating,Sunnyside,Triple,1500,,,,Bottom,,shawnee peak,me,0,0,
+Operating,Rabbit Run,Triple,1200,148,1034,350,Bottom,3,shawnee peak,me,0,0,
+Operating,Payload,Triple,1600,1025,4170,450,Bottom,9.3,showdown,mt,0,0,
+Operating,Sluice Goose Caboose,Double,960,634,3151,400,Bottom,7.9,showdown,mt,0,0,
+Operating,Prospector,Double,760,1332,6267,500,Bottom,12.5,showdown,mt,0,0,
+Operating,Chair 2,Triple,1800,1044,3405,450,Top,7.6,silver mountain,id,0,0,
+Operating,Gondola,Gondola 8,1600,3377,16350,1000,Top,16.4,silver mountain,id,0,0,
+Operating,Chair 1,Quad,1200,465,1125,410,Top,2.7,silver mountain,id,0,0,
+Operating,Chair 3,Triple,1200,805,2090,450,Top,4.6,silver mountain,id,0,0,
+Operating,Chair 4,Double,775,1894,5338,,Bottom,,silver mountain,id,0,0,
+Operating,Chair 5,Double,1096,,,,Bottom,,silver mountain,id,0,0,
+Operating,Jackalope,Quad,1600,369,1309,400,Bottom,3.3,sipapu,nm,0,0,
+Operating,4,Triple,1270,256,798,282,Bottom,3,sipapu,nm,0,0,
+Operating,1,Triple,1200,863,2864,475,Bottom,6,sipapu,nm,0,0,
+Operating,8 Elk,Quad,2500,952,2910,450,Bottom,6.5,ski apache,nm,0,0,48
+Operating,3 Quad,Quad,2400,138,1005,325,Top,3.1,ski apache,nm,0,0,48
+Operating,1 Triple,Triple,2050,1295,4970,500,Bottom,9.9,ski apache,nm,0,0,48
+Operating,Apache Arrow,Gondola 8,2000,1652,7746,984,Top,7.9,ski apache,nm,0,0,48
+Operating,7 Triple,Triple,2000,338,2625,400,Bottom,6.6,ski apache,nm,0,0,48
+Operating,5 Triple,Triple,1800,470,1385,375,Top,3.7,ski apache,nm,0,0,48
+Operating,6 Apache Bowl,Triple,1800,652,2017,500,Top,4,ski apache,nm,0,0,48
+Operating,4 Capitan,Quad,1500,456,1377,400,Bottom,3.4,ski apache,nm,0,0,48
+Operating,2 Lincoln,Triple,1300,1276,5259,450,Bottom,11.7,ski apache,nm,0,0,48
+Operating,Grizzly,Double,1096,,,,Top,,ski big bear,pa,0,0,
+Operating,Little Bear,Double,1096,,,,Bottom,,ski big bear,pa,0,0,
+Operating,Thundercloud 1,Double,1096,,,,Top,,ski big bear,pa,0,0,
+Operating,Thundercloud 2,Double,1096,,,,Top,,ski big bear,pa,0,0,
+Standing,North,Double,1200,436,2143,465,Bottom,4.6,ski blandford,ma,0,0,
+Standing,Broadway,Double,1100,425,2323,465,Bottom,5,ski blandford,ma,0,0,
+Standing,Glade,Double,1000,450,2595,465,Bottom,5.6,ski blandford,ma,0,0,
+Operating,Triple Nickel,Triple,1800,383,1505,450,Bottom,3.3,ski bluewood,wa,0,0,
+Operating,Skyline Express,Triple,600,1103,4541,400,Bottom,11.4,ski bluewood,wa,0,0,
+Operating,Evvy's Double Nickel,Triple,1800,200,995,400,Bottom,2.5,ski bradford,ma,0,0,
+Operating,Hornet,Triple,1800,213,1100,400,Bottom,2.8,ski bradford,ma,0,0,
+Operating,Wasp,Triple,1800,207,1024,400,Bottom,2.6,ski bradford,ma,0,0,
+Operating,Snowshoe,Double,600,285,1560,,Bottom,,ski brule,mi,0,0,
+Operating,Big Bear,Double,1096,,,,Bottom,,ski brule,mi,0,0,
+Operating,Homestead,Double,1096,,,,Top,,ski brule,mi,0,0,
+Operating,North Forty,Double,1096,,,,Bottom,,ski brule,mi,0,0,
+Operating,Sunrise,Double,1096,,,,Bottom,,ski brule,mi,0,0,
+Operating,Top Flight,Quad,2175,940,4025,500,Bottom,8.1,ski butternut,ma,0,0,
+Operating,Cruiser,Quad,1800,416,2078,375,Bottom,5.5,ski butternut,ma,0,0,
+Operating,Paddy Wagon,Quad,1800,51,425,400,Top,1.1,ski butternut,ma,0,0,
+Operating,Overbrook,Triple,1800,721,3230,450,Bottom,7.2,ski butternut,ma,0,0,
+Operating,Highline,Quad,800,620,3000,,Bottom,,ski butternut,ma,0,0,
+Operating,10th Mountain,Double,1200,1092,5587,500,Top,11.2,ski cooper,co,0,0,
+Operating,Piney,Triple,1200,975,4720,475,Top,9.9,ski cooper,co,0,0,
+Operating,Rumsey,Double,1108,1296,5193,500,Bottom,10.4,ski discovery,mt,0,0,
+Operating,Limelight,Double,1096,1000,,,Top,,ski discovery,mt,0,0,
+Operating,Anaconda,Triple,1618,,5200,,Top,,ski discovery,mt,0,0,
+Operating,Easy,Triple,1618,,,,Top,,ski discovery,mt,0,0,
+Operating,Granite,Triple,1618,1660,5600,,Top,,ski discovery,mt,0,0,
+Operating,Jubilee,Triple,1618,,,,Top,,ski discovery,mt,0,0,
+Operating,Silver Chief,Triple,1618,,,,,,ski discovery,mt,0,0,
+Operating,Santa Fe Super Chief,Quad,2000,866,4057,500,Bottom,8.1,ski santa fe,nm,0,0,
+Operating,Millenium,Triple,1800,1525,5746,500,Bottom,11.5,ski santa fe,nm,0,0,
+Operating,Tesuque Peak,Triple,1500,1443,4951,500,Bottom,9.9,ski santa fe,nm,0,0,
+Operating,Sierra,Double,1200,842,4288,450,Bottom,9.5,ski santa fe,nm,0,0,
+Operating,Easy Street,Double,750,175,1533,400,Bottom,3.8,ski santa fe,nm,0,0,
+Operating,Paul Bunyan,Double,1200,344,1691,450,Bottom,3.8,ski sawmill,pa,0,0,
+Operating,Triple,Triple,1618,,,,Bottom,,ski sawmill,pa,0,0,
+Operating,Exhibition,Triple,1800,554,1993,450,Bottom,4.4,ski sundown,ct,0,0,
+Operating,Sunnyside Express,Triple,1800,117,562,350,Bottom,1.6,ski sundown,ct,0,0,
+Operating,Triple Barrel,Triple,1800,561,1829,400,Bottom,4.6,ski sundown,ct,0,0,
+Operating,America,Triple,1618,,,,Bottom,,sky tavern,nv,0,0,
+Operating,Sky Ridge,Triple,1618,,,,Bottom,,sky tavern,nv,0,0,
+Operating,Bighorn,Double,1096,,,,Bottom,,sleeping giant,wy,0,0,
+Operating,Sheepeater,Triple,1618,,,,Bottom,,sleeping giant,wy,0,0,
+Operating,Madonna II,Double,1200,1159,4567,500,Bottom,9.1,smugglers notch,vt,0,0,65
+Operating,Mogul Mouse's Magic,Double,1100,,,,Bottom,,smugglers notch,vt,0,0,65
+Operating,Sterling,Double,1000,1500,5700,,Bottom,,smugglers notch,vt,0,0,65
+Operating,Village,Double,1000,1065,5155,,Bottom,,smugglers notch,vt,0,0,65
+Operating,Morse Highlands,Double,900,,,,Bottom,,smugglers notch,vt,0,0,65
+Operating,Madonna,Double,800,2150,6719,,Bottom,,smugglers notch,vt,0,0,65
+Operating,Central Express,High Speed Quad,2400,945,3864,1000,Bottom,3.9,snoqualmie,wa,1,0,
+Operating,Silver Fir Express,High Speed Quad,2400,1041,4013,1000,Bottom,4,snoqualmie,wa,1,0,
+Operating,Little Thunder,Quad,2400,230,1567,400,Bottom,3.9,snoqualmie,wa,1,0,
+Operating,Pacific Crest,Quad,2400,695,2715,450,Bottom,6,snoqualmie,wa,1,0,
+Operating,Holiday,Quad,2370,261,1309,450,Bottom,2.9,snoqualmie,wa,1,0,
+Operating,Rampart,Quad,2300,780,3030,500,Top,6.1,snoqualmie,wa,1,0,
+Operating,Armstrong Express,High Speed Quad,2000,1260,4107,1000,Bottom,4.1,snoqualmie,wa,1,0,
+Operating,Hidden Valley,Triple,1800,545,1690,500,,3.4,snoqualmie,wa,1,0,
+Operating,Triple 60,Triple,1800,693,2211,450,Bottom,4.9,snoqualmie,wa,1,0,
+Operating,Wildside,Triple,1500,692,2017,450,Bottom,4.5,snoqualmie,wa,1,0,
+Operating,Gallery,Double,1400,350,1650,,Bottom,,snoqualmie,wa,1,0,
+Operating,Reggie's,Double,1340,260,1348,350,Bottom,3.9,snoqualmie,wa,1,0,
+Operating,Dodge Ridge,Double,1200,575,2600,,Bottom,,snoqualmie,wa,1,0,
+Operating,Easy Street,Double,1200,324,1868,350,Bottom,5.3,snoqualmie,wa,1,0,
+Operating,Julie's,Double,1200,287,1530,400,Bottom,3.8,snoqualmie,wa,1,0,
+Operating,Sessel,Double,1200,511,1578,,Bottom,,snoqualmie,wa,1,0,
+Operating,St. Bernard,Double,1200,212,812,450,Bottom,1.8,snoqualmie,wa,1,0,
+Operating,Edelweiss,Double,1000,1104,2683,,Bottom,,snoqualmie,wa,1,0,
+Operating,East Peak,Triple,1618,,,,Bottom,,snoqualmie,wa,1,0,
+Operating,Sunny Side,Triple,1800,750,2570,500,Top,5.1,snow king mountain,wy,0,0,
+Operating,Rafferty,Quad,1799,867,3016,450,Bottom,6.7,snow king mountain,wy,0,0,
+Operating,Cougar,Triple,1200,929,2515,500,Bottom,5,snow king mountain,wy,0,0,
+Operating,Gondola,Gondola 8,1000,1547,3863,800,Top,4.8,snow king mountain,wy,0,0,
+Operating,Little Mountain,Double,1000,218,1198,,Bottom,,snow ridge,ny,0,0,
+Operating,North,Double,1096,,,,Bottom,,snow ridge,ny,0,0,
+Operating,Ridge Runner,Double,1096,,,,Bottom,,snow ridge,ny,0,0,
+Operating,1 East Mountain Xpress,High Speed Quad,2400,1157,5289,,Top,,snow summit,ca,1,0,
+Operating,2 All Mountain Xpress,High Speed Quad,2400,1172,5510,800,Top,6.9,snow summit,ca,1,0,
+Operating,Chair 8,Quad,1800,109,697,325,Bottom,2.1,snow summit,ca,1,0,
+Operating,Chair 9,Triple,1800,562,2945,400,Top,7.4,snow summit,ca,1,0,
+Operating,Chair 3,Double,1200,635,2877,465,Bottom,6.2,snow summit,ca,1,0,
+Operating,Chair 5,Double,1200,498,2191,400,Bottom,5.5,snow summit,ca,1,0,
+Operating,Chair 6,Double,1200,499,1694,400,Top,4.2,snow summit,ca,1,0,
+Operating,Chair 10,Triple,1200,770,2760,,Top,,snow summit,ca,1,0,
+Operating,Chair 4,Quad,630,153,983,400,Bottom,2.5,snow summit,ca,1,0,
+Operating,Chair 7,Double,1096,780,3150,,Top,,snow summit,ca,1,0,
+Operating,1 Snow Valley Express,High Speed Six,2600,845,4636,1000,,4.6,snow valley,ca,1,0,
+Operating,3,Triple,1900,728,3240,500,Top,6.5,snow valley,ca,1,0,
+Operating,2,Triple,1800,734,3707,400,Top,9.3,snow valley,ca,1,0,
+Operating,11,Triple,1800,404,1288,475,Top,2.7,snow valley,ca,1,0,
+Operating,13,Triple,1800,195,1235,350,Top,3.5,snow valley,ca,1,0,
+Operating,6,Double,1200,122,1450,400,Top,3.6,snow valley,ca,1,0,
+Operating,8,Double,1200,239,825,450,Top,1.8,snow valley,ca,1,0,
+Operating,9,Double,1200,374,1927,450,Bottom,4.3,snow valley,ca,1,0,
+Operating,12,Double,1200,95,668,350,Top,1.9,snow valley,ca,1,0,
+Operating,Littlecat Express,High Speed Quad,2600,174,1579,1000,Top,1.6,snowbasin,ut,1,0,85
+Operating,Needles Express,Gondola 8,2400,2473,9576,1200,Top,8,snowbasin,ut,1,0,85
+Operating,Strawberry Express,Gondola 8,2400,2311,9494,1200,Top,7.9,snowbasin,ut,1,0,85
+Operating,John Paul Express,High Speed Quad,2400,2435,7232,1000,Top,7.2,snowbasin,ut,1,0,85
+Operating,Wildcat Express,High Speed Six,2400,1377,4958,1000,Top,5,snowbasin,ut,1,0,85
+Operating,Middle Bowl Express,High Speed Six,1800,1168,4807,1000,Top,4.8,snowbasin,ut,1,0,85
+Operating,Becker,Triple,1800,1288,5841,500,Top,11.7,snowbasin,ut,1,0,85
+Operating,Porcupine,Triple,1800,1391,5892,500,Top,11.8,snowbasin,ut,1,0,85
+Operating,Allen Peak Tram,Tram 15,360,510,1165,1000,Bottom,1.2,snowbasin,ut,1,0,85
+Operating,Gadzoom,High Speed Quad,2600,1823,6457,1000,Top,6.5,snowbird,ut,1,0,99
+Operating,Peruvian,High Speed Quad,2400,2421,8031,1000,Top,8,snowbird,ut,1,0,99
+Operating,Mineral Basin,High Speed Quad,2200,1435,3515,1000,Top,3.5,snowbird,ut,1,0,99
+Operating,Baldy,High Speed Quad,2000,1019,3482,800,Bottom,4.4,snowbird,ut,1,0,99
+Operating,Gad 2,High Speed Quad,1800,1242,4017,1000,Top,4,snowbird,ut,1,0,99
+Operating,Little Cloud,High Speed Quad,1800,1302,3204,984,Top,3.3,snowbird,ut,1,0,99
+Operating,Baby Thunder,Double,1200,638,1966,425,Top,4.6,snowbird,ut,1,0,99
+Operating,Chickadee,Double,1200,149,830,400,Bottom,2.1,snowbird,ut,1,0,99
+Operating,Wilbere,Double,1200,668,1968,500,Bottom,3.9,snowbird,ut,1,0,99
+Operating,Mid Gad,Double,1101,1315,4287,500,Bottom,8.6,snowbird,ut,1,0,99
+Operating,Aerial Tram,Tram 120,1000,2900,8395,1970,Bottom,4.3,snowbird,ut,1,0,99
+Operating,Virginian,Double,1200,505,2764,450,Bottom,6.1,snowy range,wy,0,0,
+Operating,Chute,Double,1096,,,,Bottom,,snowy range,wy,0,0,
+Operating,Pioneer,Double,1096,,,,Top,,snowy range,wy,0,0,
+Operating,Sundance,Triple,1618,,,,Top,,snowy range,wy,0,0,
+Operating,Crystal Bowl,Triple,1800,522,2355,400,Bottom,5.9,soda springs,ca,0,0,
+Operating,Lion's Head,Double,1200,175,1215,300,,4.1,soda springs,ca,0,0,
+Operating,2 Bird's Eye,Double,1200,603,2265,450,Bottom,5,soldier mountain,id,0,0,
+Operating,1 High Trail Express,Double,900,825,3741,450,Bottom,8.3,soldier mountain,id,0,0,
+Operating,Eagle Express,High Speed Quad,2800,1358,4780,1000,Bottom,4.8,solitude,ut,1,0,71
+Operating,Apex Express,High Speed Quad,2400,856,3182,1000,Top,3.2,solitude,ut,1,0,71
+Operating,Moonbeam Express,High Speed Quad,2400,649,2868,1000,Top,2.9,solitude,ut,1,0,71
+Operating,Summit Express,High Speed Quad,1800,1337,5080,1000,Top,5.1,solitude,ut,1,0,71
+Operating,Honeycomb Return,Quad,1800,655,1300,450,Top,2.9,solitude,ut,1,0,71
+Operating,Sunrise,Triple,1800,797,3452,450,Bottom,7.7,solitude,ut,1,0,71
+Operating,Link,Double,1200,163,1248,450,Bottom,2.8,solitude,ut,1,0,71
+Operating,Powderhorn II,Quad,1961,,,,Bottom,,solitude,ut,1,0,71
+Operating,Triple,Triple,1800,580,2950,350,Bottom,8.4,song mountain,ny,0,0,
+Operating,Double,Double,1200,583,3160,500,Bottom,6.3,song mountain,ny,0,0,
+Operating,Gunshy,Double,1096,,,,Bottom,,song mountain,ny,0,0,
+Operating,Thunderbird,Triple,1618,,,,Bottom,,song mountain,ny,0,0,
+Operating,Spirit Express II,High Speed Quad,2400,564,3543,1000,,3.5,spirit mountain,mn,0,0,
+Operating,Big Air,Quad,2250,433,2020,425,Bottom,4.8,spirit mountain,mn,0,0,
+Operating,Gandy,Triple,1800,427,1795,427,Bottom,4.2,spirit mountain,mn,0,0,
+Operating,Summit,Triple,1800,397,2058,460,Bottom,4.5,spirit mountain,mn,0,0,
+Operating,Double Jaw,Double,1200,391,2072,,Bottom,,spirit mountain,mn,0,0,
+Standing,Happy,Double,1200,513,2252,465,Bottom,4.8,spout springs,or,0,0,
+Standing,Echo,Double,1200,242,1294,465,Bottom,2.8,spout springs,or,0,0,
+Operating,Shirley Lake,High Speed Six,3200,1109,2624,1000,Top,2.6,squaw valley,ca,0,0,102
+Operating,Wa She Shu,High Speed Quad,3000,1660,7622,1000,Top,7.6,squaw valley,ca,0,0,102
+Operating,Big Blue,High Speed Six,3000,551,3579,1000,Bottom,3.6,squaw valley,ca,0,0,102
+Operating,Red Dog,High Speed Six,3000,1305,3286,1000,Bottom,3.3,squaw valley,ca,0,0,102
+Operating,Far East,High Speed Six,2600,1000,2661,1000,Bottom,2.7,squaw valley,ca,0,0,102
+Operating,Roundhouse,High Speed Quad,2400,954,3667,886,Bottom,4.1,squaw valley,ca,0,0,102
+Operating,Treeline Cirque,High Speed Quad,2400,1036,5097,1000,Bottom,5.1,squaw valley,ca,0,0,102
+Operating,Gold Coast,High Speed Six,2400,560,3068,1000,Bottom,3.1,squaw valley,ca,0,0,102
+Operating,Siberia,High Speed Six,2400,915,3898,1000,Bottom,3.8,squaw valley,ca,0,0,102
+Operating,Summit Six,High Speed Six,2400,1560,5580,1000,Bottom,5.6,squaw valley,ca,0,0,102
+Operating,Solitude,Triple,2166,660,2364,451,Top,5.2,squaw valley,ca,0,0,102
+Operating,KT-22 Express,High Speed Quad,2100,1755,5042,1000,Bottom,5,squaw valley,ca,0,0,102
+Operating,Sherwood,High Speed Quad,2000,943,3464,1000,Bottom,3.5,squaw valley,ca,0,0,102
+Operating,Headwall,High Speed Six,2000,1756,5441,1100,Bottom,4.9,squaw valley,ca,0,0,102
+Operating,Granite Chief,Triple,2000,1000,3177,550,Bottom,5.8,squaw valley,ca,0,0,102
+Operating,Emigrant,Triple,1800,761,2828,475,Bottom,6,squaw valley,ca,0,0,102
+Operating,Lakeview,Triple,1800,845,2250,500,Bottom,4.5,squaw valley,ca,0,0,102
+Operating,Resort,Triple,1800,1332,4475,475,Bottom,9.4,squaw valley,ca,0,0,102
+Operating,Scott,Triple,1500,1068,2250,500,Bottom,4.5,squaw valley,ca,0,0,102
+Operating,Base to Base I,Gondola 8,1400,1729,5211,1000,Bottom,5.2,squaw valley,ca,0,0,102
+Operating,Base to Base II,Gondola 8,1400,1043,7536,1000,Bottom,7.5,squaw valley,ca,0,0,102
+Operating,Alpine Bowl,Double,1200,913,2780,475,Bottom,5.9,squaw valley,ca,0,0,102
+Operating,Belmont,Double,1200,120,875,400,Bottom,2.2,squaw valley,ca,0,0,102
+Operating,Kangaroo,Double,1200,445,1810,475,Bottom,3.8,squaw valley,ca,0,0,102
+Operating,Meadow,Double,1200,174,1200,350,Bottom,3.4,squaw valley,ca,0,0,102
+Operating,Subway,Double,1200,120,1155,300,Bottom,3.9,squaw valley,ca,0,0,102
+Operating,Yellow,Double,1200,586,2060,450,Bottom,4.6,squaw valley,ca,0,0,102
+Operating,Bailey's Beach,Triple,1200,165,1300,400,Top,3.3,squaw valley,ca,0,0,102
+Operating,Olympic Lady,Double,1100,1096,2878,535,Bottom,5.4,squaw valley,ca,0,0,102
+Operating,High Camp Cable Car,Tram 120,1000,1900,7410,1980,Bottom,3.7,squaw valley,ca,0,0,102
+Operating,Broken Arrow,Double,850,600,3000,500,Bottom,6,squaw valley,ca,0,0,102
+Operating,First Venture,Triple,800,98.4,517,300,Bottom,1.7,squaw valley,ca,0,0,102
+Operating,Exhibition,Quad,1961,900,,,Bottom,,squaw valley,ca,0,0,102
+Operating,Mountain Meadow,Triple,1618,,,,Bottom,,squaw valley,ca,0,0,102
+Operating,Silverado,Triple,1618,1400,,,Top,,squaw valley,ca,0,0,102
+Operating,Steamboat Gondola,Gondola 8,3600,2176,8849,1181,Top,7.5,steamboat,co,1,0,120
+Operating,Steamboat Gondola,Gondola 8,3600,2176,8849,1181,Top,7.5,steamboat,co,1,0,21
+Operating,Wild Blue Gondola I,Gondola 10,3200,590,4267,1200,,3.6,steamboat,co,1,0,120
+Operating,Wild Blue Gondola I,Gondola 10,3200,590,4267,1200,,3.6,steamboat,co,1,0,21
+Operating,Christie Peak Express,High Speed Six,3200,1102,4636,1000,Top,4.6,steamboat,co,1,0,120
+Operating,Christie Peak Express,High Speed Six,3200,1102,4636,1000,Top,4.6,steamboat,co,1,0,21
+Operating,Sundown Express,High Speed Quad,2800,1936,5418,1000,Top,5.4,steamboat,co,1,0,120
+Operating,Sundown Express,High Speed Quad,2800,1936,5418,1000,Top,5.4,steamboat,co,1,0,21
+Operating,Elkhead Express,High Speed Quad,2400,762,2411,1000,,2.4,steamboat,co,1,0,120
+Operating,Elkhead Express,High Speed Quad,2400,762,2411,1000,,2.4,steamboat,co,1,0,21
+Operating,Pony Express,High Speed Quad,2400,1653,5003,1000,Top,5,steamboat,co,1,0,120
+Operating,Pony Express,High Speed Quad,2400,1653,5003,1000,Top,5,steamboat,co,1,0,21
+Operating,Storm Peak Express,High Speed Quad,2400,2159,6885,1000,Top,6.9,steamboat,co,1,0,120
+Operating,Storm Peak Express,High Speed Quad,2400,2159,6885,1000,Top,6.9,steamboat,co,1,0,21
+Operating,Thunderhead Express,High Speed Quad,2400,1641,5530,1000,Top,5.5,steamboat,co,1,0,120
+Operating,Thunderhead Express,High Speed Quad,2400,1641,5530,1000,Top,5.5,steamboat,co,1,0,21
+Operating,Sunshine Express,High Speed Quad,2000,,,,Top,,steamboat,co,1,0,120
+Operating,Sunshine Express,High Speed Quad,2000,,,,Top,,steamboat,co,1,0,21
+Operating,Greenhorn Ranch Express,High Speed Quad,1800,230,1206,600,,2,steamboat,co,1,0,120
+Operating,Greenhorn Ranch Express,High Speed Quad,1800,230,1206,600,,2,steamboat,co,1,0,21
+Operating,Burgess Creek,Triple,1800,939,3490,500,Top,7,steamboat,co,1,0,120
+Operating,Burgess Creek,Triple,1800,939,3490,500,Top,7,steamboat,co,1,0,21
+Operating,Four Points,Triple,1800,1361,4012,500,Top,8,steamboat,co,1,0,120
+Operating,Four Points,Triple,1800,1361,4012,500,Top,8,steamboat,co,1,0,21
+Operating,Morningside,Triple,1800,545,2685,500,Top,5.4,steamboat,co,1,0,120
+Operating,Morningside,Triple,1800,545,2685,500,Top,5.4,steamboat,co,1,0,21
+Operating,South Peak,Triple,1800,305,1700,450,Top,3.8,steamboat,co,1,0,120
+Operating,South Peak,Triple,1800,305,1700,450,Top,3.8,steamboat,co,1,0,21
+Operating,Bashor,Double,1200,305,1505,475,Bottom,3.2,steamboat,co,1,0,120
+Operating,Bashor,Double,1200,305,1505,475,Bottom,3.2,steamboat,co,1,0,21
+Operating,Bar-UE,Double,1000,1352,4820,500,Top,9.6,steamboat,co,1,0,120
+Operating,Bar-UE,Double,1000,1352,4820,500,Top,9.6,steamboat,co,1,0,21
+Operating,Wildhorse Gondola,Pulse Gondola 6,340,104,1942,1000,Bottom,1.9,steamboat,co,1,0,120
+Operating,Wildhorse Gondola,Pulse Gondola 6,340,104,1942,1000,Bottom,1.9,steamboat,co,1,0,21
+Operating,3,Double,1096,,,,Bottom,,steeplechase,mn,0,0,
+Operating,4,Double,1096,,,,Top,,steeplechase,mn,0,0,
+Operating,1,Triple,1618,,,,Bottom,,steeplechase,mn,0,0,
+Operating,2,Triple,1618,,,,Bottom,,steeplechase,mn,0,0,
+Operating,Hogsback Express,High Speed Quad,2800,781,3293,1000,Bottom,3.3,stevens pass,wa,0,1,63
+Operating,Brooks Express,High Speed Quad,2400,813,4179,1000,Bottom,4.2,stevens pass,wa,0,1,63
+Operating,Jupiter Express,High Speed Quad,2400,1346,3973,1000,Top,4,stevens pass,wa,0,1,63
+Operating,Skyline Express,High Speed Quad,2400,1219,5355,1000,Top,5.4,stevens pass,wa,0,1,63
+Operating,Double Diamond/Southern Cross,Triple,2400,2466,5675,500,Top,11.4,stevens pass,wa,0,1,63
+Operating,Daisy,Quad,1806,310,4013,450,Bottom,8.9,stevens pass,wa,0,1,63
+Operating,Tye Mill,Triple,1800,706,1513,425,Bottom,3.6,stevens pass,wa,0,1,63
+Operating,Kehr's,Double,1300,824,2095,,Bottom,,stevens pass,wa,0,1,63
+Operating,Seventh Heaven,Double,900,437,1000,,Bottom,,stevens pass,wa,0,1,63
+Operating,Sunrise,High Speed Six,3000,1214,4476,1000,,4.5,stowe,vt,0,1,106
+Operating,Gondola,Gondola 8,2700,2100,7664,1200,Bottom,6.4,stowe,vt,0,1,106
+Operating,FourRunner,High Speed Quad,2400,2046,5882,1000,Top,5.9,stowe,vt,0,1,106
+Operating,Sensation,High Speed Quad,2400,1454,5889,1100,Bottom,5.4,stowe,vt,0,1,106
+Operating,Sunny Spruce,High Speed Quad,2400,865,3769,1100,Bottom,3.4,stowe,vt,0,1,106
+Operating,Meadows,Quad,2000,432,1734,400,Bottom,4.3,stowe,vt,0,1,106
+Operating,Adventure,Triple,1500,127,980,300,Bottom,3.3,stowe,vt,0,1,106
+Operating,Lookout,Double,1200,1175,5341,500,Top,10.7,stowe,vt,0,1,106
+Operating,Over Easy,Gondola 6,1200,15,1483,800,Mansfield,1.9,stowe,vt,0,1,106
+Operating,Toll House,Double,800,890,6400,500,Bottom,12.8,stowe,vt,0,1,106
+Operating,American Express,High Speed Six,3600,658,3238,1000,Bottom,3.2,stratton,vt,1,0,90
+Operating,Shooting Star,High Speed Six,3600,798,3305,1050,Top,3.1,stratton,vt,1,0,90
+Operating,Sunrise Express,High Speed Six,3600,1122,4502,1050,Bottom,4.3,stratton,vt,1,0,90
+Operating,URSA Express,High Speed Six,3600,1340,4620,1100,Top,4.2,stratton,vt,1,0,90
+Operating,Gondola,Gondola 10,3000,1742,7379,1000,Bottom,7.4,stratton,vt,1,0,90
+Operating,Snow Bowl Express,High Speed Quad,2400,1371,4606,1000,Bottom,4.6,stratton,vt,1,0,90
+Operating,South American,Quad,2100,,,,Bottom,,stratton,vt,1,0,90
+Operating,Solstice,Quad,2000,,,,Bottom,,stratton,vt,1,0,90
+Operating,Tamarack,Triple,1800,569,3499,450,Bottom,7.8,stratton,vt,1,0,90
+Operating,Villager,Double,1000,155,1073,375,Top,2.9,stratton,vt,1,0,90
+Operating,Disney Express,High Speed Quad,2800,1015,3505,1000,Bottom,3.5,sugar bowl,ca,0,0,98
+Operating,Mt. Lincoln Express,High Speed Quad,2800,1292,4439,1000,Bottom,4.4,sugar bowl,ca,0,0,98
+Operating,Mt. Judah Express,High Speed Quad,2800,848,3848,1000,Bottom,3.8,sugar bowl,ca,0,0,98
+Operating,Christmas Tree Express,High Speed Quad,2400,505,2014,1000,Bottom,2,sugar bowl,ca,0,0,98
+Operating,Jerome Hill Express,High Speed Quad,2400,685,3070,1000,Bottom,3.1,sugar bowl,ca,0,0,98
+Operating,White Pine,Quad,2400,242,1260,500,Top,2.5,sugar bowl,ca,0,0,98
+Operating,Nob Hill,Quad,2000,83,673,400,Top,1.7,sugar bowl,ca,0,0,98
+Operating,Crow's Peak,Triple,1800,906,2911,500,Bottom,5.8,sugar bowl,ca,0,0,98
+Operating,Summit,Quad,1200,382,925,500,Bottom,2.1,sugar bowl,ca,0,0,98
+Operating,Village Gondola,Gondola 4,1000,87,3205,787,Highway,4.3,sugar bowl,ca,0,0,98
+Operating,Gatehouse Express,High Speed Quad,3000,831,3868,1000,Bottom,3.9,sugarbush,vt,1,0,83
+Operating,Super Bravo Express,High Speed Quad,2800,1529,5689,1000,Bottom,5.7,sugarbush,vt,1,0,83
+Operating,Green Mountain Express,High Speed Quad,2600,1495,6243,1100,Top,5.7,sugarbush,vt,1,0,83
+Operating,North Ridge Express,High Speed Quad,2000,1690,5647,1100,Top,5.1,sugarbush,vt,1,0,83
+Operating,Inverness,Quad,1900,1098,4411,550,Bottom,8,sugarbush,vt,1,0,83
+Operating,Valley House,Quad,1852,1242,3759,485,Bottom,7.8,sugarbush,vt,1,0,83
+Operating,Slide Brook Express,High Speed Quad,1800,1557,11012,1100,Bottom,10,sugarbush,vt,1,0,83
+Operating,Heaven's Gate,Triple,1600,1444,3924,500,Bottom,7.8,sugarbush,vt,1,0,83
+Operating,Summit,Quad,1500,1041,3510,550,Bottom,6.4,sugarbush,vt,1,0,83
+Operating,Village,Quad,1500,260,1695,400,Top,4.2,sugarbush,vt,1,0,83
+Operating,North Lynx,Triple,1500,,,,Bottom,,sugarbush,vt,1,0,83
+Operating,Sunshine,Quad,1103,477,2171,450,Bottom,4.8,sugarbush,vt,1,0,83
+Operating,Castlerock,Double,1046,1670,4707,300,Bottom,15.7,sugarbush,vt,1,0,83
+Operating,SuperQuad,High Speed Quad,3000,1783,6655,1070,Bottom,6.2,sugarloaf,me,1,0,81
+Operating,Whiffletree,High Speed Quad,2800,1047,4750,1070,Bottom,4.4,sugarloaf,me,1,0,81
+Operating,King Pine,Quad,2400,1074,3174,450,Bottom,7.1,sugarloaf,me,1,0,81
+Operating,Timberline,Quad,2400,980,3900,,Bottom,9.1,sugarloaf,me,1,0,81
+Operating,Skyline,Quad,1815,1457,3746,485,Bottom,7.7,sugarloaf,me,1,0,81
+Operating,Snubber,Triple,1800,428,5460,500,Bottom,10.9,sugarloaf,me,1,0,81
+Operating,Double Runner East,Double,1200,617,3080,450,Bottom,6.8,sugarloaf,me,1,0,81
+Operating,Double Runner West,Double,1200,1014,4403,450,Bottom,9.8,sugarloaf,me,1,0,81
+Operating,West Mountain,Double,1200,1275,6968,500,Bottom,13.9,sugarloaf,me,1,0,81
+Operating,Skidway,Double,1000,149,1000,,Top,,sugarloaf,me,1,0,81
+Operating,Sawduster,Double,500,94,1125,350,Bottom,3.2,sugarloaf,me,1,0,81
+Operating,Quad,Quad,2000,610,1946,450,Bottom,4.3,suicide six,vt,0,0,
+Operating,Double,Double,1000,302,1600,492,Bottom,3.3,suicide six,vt,0,0,
+Operating,3 Christmas,High Speed Quad,3000,1353,4170,1000,Top,4.2,sun valley,id,1,0,107
+Operating,1 River Run,High Speed Quad,2400,619,2976,900,Top,3.3,sun valley,id,1,0,107
+Operating,4 Broadway,High Speed Quad,2400,1585,5223,1000,Top,5.2,sun valley,id,1,0,107
+Operating,7 Greyhawk,High Speed Quad,2400,1488,4150,1000,Top,4.2,sun valley,id,1,0,107
+Operating,12 Seattle Ridge,High Speed Quad,2400,1309,4071,900,Top,4.5,sun valley,id,1,0,107
+Operating,Dollar Express,High Speed Quad,2400,634,2572,1000,Top,2.6,sun valley,id,1,0,107
+Operating,Quarter Dollar Express,High Speed Quad,2400,181,2317,800,Top,2.9,sun valley,id,1,0,107
+Operating,8 Frenchman's,High Speed Quad,2000,1502,4070,900,Top,4.5,sun valley,id,1,0,107
+Operating,11 Lookout,Triple,2000,170,2050,450,Bottom,4.6,sun valley,id,1,0,107
+Operating,2 Roundhouse Gondola,Gondola 8,1800,2160,7935,1000,Top,7.9,sun valley,id,1,0,107
+Operating,5 Lookout Express,High Speed Quad,1800,2673,7640,1000,Top,7.6,sun valley,id,1,0,107
+Operating,14 Mayday,Triple,1800,1739,4290,550,Top,7.8,sun valley,id,1,0,107
+Operating,10 Challenger,High Speed Quad,1500,3142,9020,1000,Top,9,sun valley,id,1,0,107
+Operating,Elkhorn,Triple,1400,563,2400,450,Bottom,5.3,sun valley,id,1,0,107
+Operating,Half Dollar,Double,1200,186,1170,475,Top,2.5,sun valley,id,1,0,107
+Operating,Sunapee Express,High Speed Quad,2650,1405,6057,1100,Bottom,5.5,sunapee,nh,0,1,
+Operating,Sunbowl Express,High Speed Quad,2400,1058,4292,1000,,4.3,sunapee,nh,0,1,
+Operating,Clipper Ship,Quad,2200,374,1814,425,Bottom,4.3,sunapee,nh,0,1,
+Operating,North Peak,Triple,1800,965,3254,450,Bottom,7.2,sunapee,nh,0,1,
+Operating,Spruce,Triple,1800,417,1940,400,Bottom,4.9,sunapee,nh,0,1,
+Operating,Outlaw Express,High Speed Quad,2400,1288,5005,1000,Top,5,sundance,ut,0,0,
+Operating,Jake's,Quad,1800,647,2702,450,Top,6,sundance,ut,0,0,
+Operating,Wildwood,Quad,1800,575,2315,450,Top,5.1,sundance,ut,0,0,
+Operating,Red's,Quad,1400,1282,4084,450,Bottom,9.1,sundance,ut,0,0,
+Operating,Flathead,Triple,1400,1115,2648,500,Bottom,5.3,sundance,ut,0,0,
+Operating,Stairway,Quad,1200,435,996,450,Top,2.2,sundance,ut,0,0,
+Operating,14 Jordan 8,High Speed Eight,3200,1325,4760,1200,Bottom,4,sunday river,me,1,0,85
+Operating,1 Barker Mountain Express,High Speed Quad,3000,1396,4902,1000,Bottom,4.9,sunday river,me,1,0,85
+Operating,6 North Peak Express,High Speed Quad,2800,980,4153,1000,Top,4.2,sunday river,me,1,0,85
+Operating,2 South Ridge Express,High Speed Quad,2750,505,3074,800,Bottom,3.8,sunday river,me,1,0,85
+Operating,10 White Heat,Quad,2400,1294,3665,480,Bottom,7.6,sunday river,me,1,0,85
+Operating,12 Aurora Peak,Quad,2400,1095,3483,480,Bottom,7.3,sunday river,me,1,0,85
+Operating,15 Oz,Quad,2400,1051,2954,475,Bottom,6.2,sunday river,me,1,0,85
+Operating,7 Chondola,Chondola 6/8,2330,1138,6427,1000,Top,6.4,sunday river,me,1,0,85
+Operating,9 White Cap,Quad,2000,898,3725,500,Bottom,7.5,sunday river,me,1,0,85
+Operating,11 Little White Cap,Quad,1800,602,3135,460,Bottom,7,sunday river,me,1,0,85
+Operating,19 Merrill Hill,Triple,1800,494,2037,500,Bottom,4.1,sunday river,me,1,0,85
+Operating,13 Jordan Mountain,Double,1600,342,1735,450,Top,3.9,sunday river,me,1,0,85
+Operating,3 Quantum Leap,Triple,1500,,,,Bottom,,sunday river,me,1,0,85
+Operating,4 Locke Mountain,Triple,1500,1394,4768,500,Bottom,9.5,sunday river,me,1,0,85
+Operating,8 Spruce Peak,Triple,1480,1207,4366,500,Bottom,8.7,sunday river,me,1,0,85
+Operating,Segundo,Double,970,1160,4556,500,Top,9.1,sunlight,co,0,0,
+Operating,Primo,Double,730,1760,7260,500,Top,14.5,sunlight,co,0,0,
+Operating,Tercero,Triple,1618,500,,,Bottom,10,sunlight,co,0,0,
+Operating,Quad 1,Quad,2400,,,400,Bottom,2.6,swain,ny,0,0,
+Operating,Quad 2,Quad,2400,189,1037,400,Bottom,,swain,ny,0,0,
+Operating,Quad 3,Quad,2100,505,2245,400,Bottom,5.6,swain,ny,0,0,
+Operating,Double,Double,1200,530,2500,465,Bottom,5.4,swain,ny,0,0,
+Operating,Quad 80,Quad,2400,173,858,362,Bottom,2.4,swiss valley,mi,0,0,
+Operating,Quad 83,Quad,2400,99,666,305,Bottom,2.2,swiss valley,mi,0,0,
+Operating,Triple,Triple,1800,180,1157,400,Bottom,2.9,swiss valley,mi,0,0,
+Operating,Easy Rider Express,High Speed Quad,2400,160,1165,900,Top,1.3,tahoe,ca,1,0,102
+Operating,Grandview Express,High Speed Quad,2400,1588,5172,1000,Top,5.1,tahoe,ca,1,0,102
+Operating,West Bowl Express,High Speed Quad,2400,1417,5022,1000,Top,5,tahoe,ca,1,0,102
+Operating,Eagle Rock,Quad,2400,510,1975,400,Bottom,4.9,tahoe,ca,1,0,102
+Operating,Puma,Triple,1800,1430,5288,475,Top,11.1,tahoe,ca,1,0,102
+Operating,El Dorado,Double,1200,728,3490,475,Top,7.3,tahoe,ca,1,0,102
+Operating,Nob Hill,Double,1200,852,3455,475,Bottom,7.3,tahoe,ca,1,0,102
+Operating,Short Stuff,Double,1200,222,1520,475,Top,3.2,tahoe,ca,1,0,102
+Operating,Tahoe King,Double,1200,1596,5240,500,Top,10.5,tahoe,ca,1,0,102
+Operating,Snowbird,Triple,1200,234,1517,400,Bottom,3.8,tahoe,ca,1,0,102
+Operating,Rock Garden,Double,1000,322,1500,517,Bottom,2.9,tahoe,ca,1,0,102
+Operating,Buttercup,Quad,2400,331,2405,500,Top,4.8,tamarack resort,id,0,0,59
+Operating,Wildwood Express,High Speed Quad,1800,1645,5316,1000,Top,5.3,tamarack resort,id,0,0,59
+Operating,Summit Express,High Speed Quad,1200,996,3694,1000,Top,3.7,tamarack resort,id,0,0,59
+Operating,Tamarack Express,High Speed Quad,1200,1839,8061,1000,Top,8.1,tamarack resort,id,0,0,59
+Operating,Discovery,Quad,1200,105,1009,275,Bottom,3.7,tamarack resort,id,0,0,59
+Operating,1,High Speed Quad,2400,1633,3770,1000,Top,3.8,taos,nm,1,0,84
+Operating,4,Quad,2400,1230,4436,500,Bottom,8.9,taos,nm,1,0,84
+Operating,8,Quad,2400,1216,4533,500,Bottom,9.1,taos,nm,1,0,84
+Operating,2,Quad,1800,1066,3205,500,Bottom,6.4,taos,nm,1,0,84
+Operating,7,Triple,1800,920,3100,470,Top,6.6,taos,nm,1,0,84
+Operating,Kachina Peak,Triple,1500,1095,2330,500,Bottom,4.7,taos,nm,1,0,84
+Operating,Rueggli,Triple,1500,130,971,400,Top,2.4,taos,nm,1,0,84
+Operating,Gondolita,Pulse Gondola 6,400,61,768,1000,Bottom,0.8,taos,nm,1,0,84
+Operating,7A,Double,1096,,,,Bottom,,taos,nm,1,0,84
+Operating,Pioneer,Triple,1618,,,,Top,,taos,nm,1,0,84
+Operating,4 Village Express,High Speed Quad,2800,1244,6254,1000,Top,6.3,telluride,co,0,1,110
+Operating,5 Polar Queen Express,High Speed Quad,2400,936,4912,1000,Top,4.9,telluride,co,0,1,110
+Operating,9 Plunge Express,High Speed Quad,2400,2119,6176,1000,,6.2,telluride,co,0,1,110
+Operating,12 Prospect Express,High Speed Quad,2400,1048,5077,1000,Top,5.1,telluride,co,0,1,110
+Operating,11 Ute Park Express,High Speed Quad,2200,274,3677,1000,,3.7,telluride,co,0,1,110
+Operating,14 Gold Hill Express,High Speed Quad,2200,1475,3677,1000,Bottom,3.7,telluride,co,0,1,110
+Operating,1 Chondola,Chondola 4/4,2000,385,2910,800,Bottom,3.6,telluride,co,0,1,110
+Operating,6 Apex,Triple,1500,1144,2957,500,Top,6,telluride,co,0,1,110
+Operating,Gondola Village Parking,Gondola 8,1200,62,2782,1000,Top,2.8,telluride,co,0,1,110
+Operating,Mountain Village Gondola Stage I,Gondola 8,1200,1786,6030,1000,Top,6,telluride,co,0,1,110
+Operating,Mountain Village Gondola Stage II,Gondola 8,1200,1010,4115,1000,Top,4.1,telluride,co,0,1,110
+Operating,10 Sunshine Express,High Speed Quad,1200,1750,10732,984,Bottom,10.9,telluride,co,0,1,110
+Operating,15 Revelation,Quad,1200,799,1841,450,Top,4.1,telluride,co,0,1,110
+Operating,7 Lift 7,Double,1040,1838,4796,500,Top,9.6,telluride,co,0,1,110
+Operating,8 Oak Street,Double,900,1055,2686,450,Bottom,5.5,telluride,co,0,1,110
+Operating,Eclipse,Triple,1530,622,3125,450,Bottom,6.9,tenney mountain,nh,0,0,
+Operating,Hornet,Double,800,1285,5985,,Bottom,,tenney mountain,nh,0,0,
+Operating,Sunnyside,Triple,1530,129,840,325,Top,2.6,the homestead,mi,0,0,
+Operating,North Face,Triple,1500,143,632,375,Top,1.7,the homestead,mi,0,0,
+Operating,Whatta View,Double,1015,201,841,425,Top,2,the homestead,mi,0,0,
+Operating,Triple,Triple,1800,297,1192,450,Bottom,2.6,thunder ridge,ny,0,0,
+Operating,Double,Double,900,400,2500,350,Bottom,7.1,thunder ridge,ny,0,0,
+Operating,Little Thunder,Double,800,130,800,,Bottom,,thunder ridge,ny,0,0,
+Operating,Chair 4,Quad,2100,165,1079,365,Bottom,3,timber ridge,mi,0,0,
+Operating,Chair 3,Triple,1800,208,1374,400,Bottom,3.4,timber ridge,mi,0,0,
+Operating,Chair 1,Double,1000,205,1000,500,Bottom,2,timber ridge,mi,0,0,
+Operating,Chair 2,Double,1096,,,,Bottom,,timber ridge,mi,0,0,
+Operating,Magic Mile,High Speed Quad,3000,1089,5472,1100,Top,5,timberline lodge,or,0,0,
+Operating,Pucci,High Speed Quad,1815,587,3256,1000,Top,3.2,timberline lodge,or,0,0,
+Operating,Jeff Flood,High Speed Quad,1800,1215,6784,1000,Top,6.8,timberline lodge,or,0,0,
+Operating,Palmer,High Speed Quad,1800,1526,5564,1000,Bottom,5.6,timberline lodge,or,0,0,
+Operating,Stormin' Norman,High Speed Quad,1500,784,4325,1000,Top,4.3,timberline lodge,or,0,0,
+Operating,Summit,Double,1200,306,2310,400,Bottom,5.8,timberline lodge,or,0,0,
+Operating,Molly's,High Speed Quad,1200,828,4962,1000,Top,5,timberline lodge,or,0,0,
+Operating,Bruno's,Double,800,46,365,300,Bottom,1.2,timberline lodge,or,0,0,
+Operating,4,Triple,1770,466,3055,460,Bottom,6.6,titus mountain,ny,0,0,
+Operating,1,Double,1096,,,,Bottom,,titus mountain,ny,0,0,
+Operating,3,Double,1096,,,,Bottom,,titus mountain,ny,0,0,
+Operating,5,Double,1096,,,,Bottom,,titus mountain,ny,0,0,
+Operating,6,Double,1096,,,,Bottom,,titus mountain,ny,0,0,
+Operating,7,Double,1096,,,,Bottom,,titus mountain,ny,0,0,
+Operating,8,Triple,1618,,,,Bottom,,titus mountain,ny,0,0,
+Standing,Triple,Triple,1800,538,1925,450,Bottom,4.3,toggenburg,ny,0,0,
+Standing,South,Double,1200,521,2408,465,Bottom,5.2,toggenburg,ny,0,0,
+Standing,North,Double,1096,,,,Bottom,,toggenburg,ny,0,0,
+Operating,Chair 1,Triple,1800,185,1150,385,Bottom,3,treetops,mi,0,0,
+Operating,Chair 2,Triple,1800,228,1132,385,Bottom,2.9,treetops,mi,0,0,
+Operating,Chair 3,Triple,1800,230,1325,400,Bottom,3.3,treetops,mi,0,0,
+Operating,Utah,Quad,2400,447,1524,400,Bottom,3.8,tussey mountain,pa,0,0,
+Operating,Little Bear,Double,1096,,,,Bottom,,tussey mountain,pa,0,0,
+Operating,Game Changer,High Speed Quad,2400,1196,3447,1000,,3.4,utah olympic park,ut,0,0,
+Operating,Nordic,Double,550,460,1210,450,Bottom,2.7,utah olympic park,ut,0,0,
+Operating,Freestyle,Double,300,380,1003,450,Bottom,2.2,utah olympic park,ut,0,0,
+Operating,Alpine,Quad,1961,,,,Top,,utah olympic park,ut,0,0,
+Operating,1 One,Gondola 10,3600,1996,9308,1200,Top,7.8,vail,co,0,1,127
+Operating,2 Avanti Express,High Speed Six,3600,1466,6640,1000,Top,6.6,vail,co,0,1,127
+Operating,4 Mountaintop Express,High Speed Six,3600,1108,4284,1000,Top,4.3,vail,co,0,1,127
+Operating,7 Game Creek Express,High Speed Six,3200,1184,4484,1000,,4.5,vail,co,0,1,127
+Operating,19 Eagle Bahn Gondola,Gondola 12,3000,2215,9148,1181,Top,7.7,vail,co,0,1,127
+Operating,11 Northwoods Express,High Speed Six,3000,1545,5905,1000,Top,5.9,vail,co,0,1,127
+Operating,3 Wildwood Express,High Speed Quad,2800,852,3350,984,Top,3.4,vail,co,0,1,127
+Operating,6 Riva Bahn Express,High Speed Quad,2800,1705,9051,984,Top,9.1,vail,co,0,1,127
+Operating,8 Born Free Express,High Speed Quad,2800,1593,6076,1000,Top,6.1,vail,co,0,1,127
+Operating,26 Pride Express,High Speed Quad,2800,1225,5415,984,Top,5.5,vail,co,0,1,127
+Operating,5 High Noon Express,High Speed Quad,2400,1852,5570,1000,Top,5.6,vail,co,0,1,127
+Operating,9 Sun Up Express,High Speed Quad,2400,1109,3874,1000,Top,3.9,vail,co,0,1,127
+Operating,10 Highline Express,High Speed Quad,2400,1755,6729,1000,Top,6.7,vail,co,0,1,127
+Operating,14 Sourdough Express,High Speed Quad,2400,512,2437,1000,Top,2.4,vail,co,0,1,127
+Operating,17 Sun Down Express,High Speed Quad,2400,1586,6106,1000,,6.1,vail,co,0,1,127
+Operating,21 Orient Express,High Speed Quad,2400,1565,7658,1000,Top,7.7,vail,co,0,1,127
+Operating,37 Skyline Express,High Speed Quad,1800,1936,8391,1100,Top,7.6,vail,co,0,1,127
+Operating,39 Pete's Express,High Speed Quad,1800,1582,6677,1100,Top,6.1,vail,co,0,1,127
+Operating,20 Cascade Village,Quad,1800,1278,3497,450,Top,7.8,vail,co,0,1,127
+Operating,12 Gopher Hill,Triple,1600,146,937,400,Top,2.3,vail,co,0,1,127
+Operating,36 Teacup Express,High Speed Quad,1200,1266,6704,1100,Top,6.1,vail,co,0,1,127
+Operating,38 Earl's Express,High Speed Quad,1200,1357,4834,1100,Top,4.4,vail,co,0,1,127
+Operating,15 Little Eagle,Triple,135,111,1012,400,Bottom,2.5,vail,co,0,1,127
+Operating,Polar Express,High Speed Quad,2800,944,4307,950,Bottom,4.5,wachusett mountain,ma,0,0,
+Operating,Minuteman Express,High Speed Quad,2600,600,3516,1000,Bottom,3.5,wachusett mountain,ma,0,0,
+Operating,Monadnock Express,High Speed Quad,2400,299,2205,1000,Bottom,2.2,wachusett mountain,ma,0,0,
+Operating,Vickery Bowl,Triple,1500,,1500,,Bottom,,wachusett mountain,ma,0,0,
+Operating,1 Diamond Peak,High Speed Quad,1800,2296,8421,1000,Top,8.4,wasatch peaks ranch,ut,0,0,
+Operating,3 Jacob's Ridge,High Speed Quad,1800,1607,4485,1000,Bottom,4.5,wasatch peaks ranch,ut,0,0,
+Operating,,Triple,1800,258,1362,400,,3.4,wasatch peaks ranch,ut,0,0,
+Operating,Tecumseh Express,High Speed Six,3005,1585,5699,1000,Bottom,5.7,waterville valley,nh,0,0,
+Operating,Valley Run,High Speed Quad,2800,682,3979,1000,Bottom,4,waterville valley,nh,0,0,
+Operating,Green Peak,Triple,1500,,,475,Bottom,,waterville valley,nh,0,0,
+Operating,Snow's Mountain,Double,1440,584,2859,450,Bottom,6.4,waterville valley,nh,0,0,
+Operating,Lower Meadows,Double,1000,160,1000,350,Bottom,2.9,waterville valley,nh,0,0,
+Operating,Northside,Double,1000,,,,Bottom,,waterville valley,nh,0,0,
+Operating,Sunnyside,Triple,1000,997,2920,450,Bottom,6.5,waterville valley,nh,0,0,
+Operating,Lookout,Quad,2185,303,1209,400,Bottom,3,welch village,mn,0,0,
+Operating,Face,Quad,2000,291,1623,425,Bottom,3.8,welch village,mn,0,0,
+Operating,Cannon Valley,Quad,1800,325,1747,400,Bottom,4.4,welch village,mn,0,0,
+Operating,Sunrise,Triple,1800,350,2519,400,Bottom,6.3,welch village,mn,0,0,
+Operating,Belle Creek,Quad,1778,296,1203,400,Bottom,3,welch village,mn,0,0,
+Operating,Skilink,Double,1096,,,,Bottom,,welch village,mn,0,0,
+Operating,East,Quad,1961,,,,Bottom,,welch village,mn,0,0,
+Operating,West,Quad,1961,,,,Bottom,,welch village,mn,0,0,
+Operating,Face,Quad,1800,312,1337,400,Bottom,3.3,west mountain,ny,0,0,
+Operating,Apex,Triple,1200,936,3541,450,Bottom,7.9,west mountain,ny,0,0,
+Operating,West Express,Triple,1618,,,,Bottom,,west mountain,ny,0,0,
+Operating,Great White Express,High Speed Quad,2400,1490,4955,1000,Bottom,5,white pass,wa,0,0,
+Operating,Couloir Express,High Speed Quad,1600,911,4075,1000,Top,4.1,white pass,wa,0,0,
+Operating,Basin,Quad,1600,649,3673,450,Bottom,8.2,white pass,wa,0,0,
+Operating,Paradise,Double,1200,720,2680,450,Top,6,white pass,wa,0,0,
+Operating,Far East,Triple,1200,511,2162,450,Bottom,4.8,white pass,wa,0,0,
+Operating,Chair 2,Double,900,1493,4987,,Top,,white pass,wa,0,0,
+Operating,Great Spirit,Triple,1500,913,3505,450,Bottom,7.8,white pine,wy,0,0,
+Operating,Little Spirit,Triple,1000,181,673,400,Bottom,1.7,white pine,wy,0,0,
+Operating,Face Lift,High Speed Quad,2400,1316,6254,1000,Bottom,6.3,whiteface,ny,0,0,
+Operating,Falcon Flyer,Quad,2400,249,1674,450,Bottom,3.7,whiteface,ny,0,0,
+Operating,Warhorse,Quad,2400,322,1838,450,Top,4.1,whiteface,ny,0,0,
+Operating,Cloudsplitter,Gondola 8,2000,2432,8487,1212,Top,7,whiteface,ny,0,0,
+Operating,Lookout Mountain,Triple,1700,1560,4125,500,Bottom,8.3,whiteface,ny,0,0,
+Operating,Summit,Quad,1500,1852,4290,500,Bottom,8.6,whiteface,ny,0,0,
+Operating,Mountain Run,Double,1200,993,2458,500,Bottom,4.9,whiteface,ny,0,0,
+Operating,Freeway,Double,800,1458,3935,465,Bottom,8.5,whiteface,ny,0,0,
+Operating,Little Whiteface,Double,800,1458,4220,465,Bottom,9.1,whiteface,ny,0,0,
+Operating,Big Mountain Express,High Speed Quad,2800,2087,7322,1000,Top,7.3,whitefish,mt,0,0,65
+Operating,Snow Ghost Express,High Speed Six,2800,2224,7211,1100,Top,6.6,whitefish,mt,0,0,65
+Operating,Swift Creek Express,High Speed Quad,2000,1110,,,Top,,whitefish,mt,0,0,65
+Operating,Big Creek Express,High Speed Quad,1800,1211,5743,1000,Top,5.7,whitefish,mt,0,0,65
+Operating,Base Lodge,Quad,1800,240,1535,450,Bottom,3.4,whitefish,mt,0,0,65
+Operating,East Rim,Triple,1750,805,2388,,Top,6,whitefish,mt,0,0,65
+Operating,Tenderfoot,Triple,1200,443,2452,440,Bottom,5.6,whitefish,mt,0,0,65
+Operating,Easy Rider,Quad,1961,269,,,Bottom,,whitefish,mt,0,0,65
+Operating,Bad Rock,Triple,1618,461,,,Bottom,,whitefish,mt,0,0,65
+Operating,Elk Highlands,Triple,1618,375,,,Bottom,,whitefish,mt,0,0,65
+Operating,Flower Point,Triple,1618,970,,,Top,,whitefish,mt,0,0,65
+Operating,Hellroaring,Triple,1618,,,,Top,,whitefish,mt,0,0,65
+Operating,Whitetail Express,High Speed Quad,3000,910,3295,984,Bottom,3.3,whitetail,pa,0,1,
+Operating,Easy Rider,Quad,2400,523,2580,400,Bottom,6.5,whitetail,pa,0,1,
+Operating,Expert's Choice,Quad,2400,770,2310,450,Bottom,5.1,whitetail,pa,0,1,
+Operating,Lift Off,Quad,1800,110,1015,250,Bottom,4.1,whitetail,pa,0,1,
+Operating,U-Me,Double,1000,85,900,300,Bottom,3,whitetail,pa,0,1,
+Operating,Jib Junction,Double,1096,,,,Bottom,,whitetail,pa,0,1,
+Operating,Chair 1,Quad,2400,192,968,400,Bottom,2.4,wild mountain,mn,0,0,
+Operating,Chair 2,Quad,2400,268,1156,400,Bottom,2.9,wild mountain,mn,0,0,
+Operating,Chair 4,Quad,2400,271,1490,400,Bottom,3.7,wild mountain,mn,0,0,
+Operating,Chair 3,Quad,1400,270,1225,400,Bottom,3.1,wild mountain,mn,0,0,
+Operating,Wildcat Express,High Speed Quad,2400,2041,6616,1100,Bottom,6,wildcat,nh,0,1,
+Operating,Bobcat,Triple,1800,762,2772,435,Bottom,6.4,wildcat,nh,0,1,
+Operating,Tomcat,Triple,1800,1390,4430,450,Bottom,9.8,wildcat,nh,0,1,
+Operating,Snowcat,Triple,1000,237,1444,350,Bottom,4.1,wildcat,nh,0,1,
+Operating,Eagle Peak Accelerator,High Speed Six,3000,1518,4650,1100,Bottom,4.2,willamette pass,or,0,0,
+Operating,Peak 2,Triple,1800,870,3282,450,Top,7.3,willamette pass,or,0,0,
+Operating,Sleepy Hollow,Triple,1800,92,675,240,Bottom,2.8,willamette pass,or,0,0,
+Operating,Twilight,Triple,1800,813,3355,450,Bottom,7.5,willamette pass,or,0,0,
+Operating,1,Double,1200,447,1428,450,Bottom,3.2,willard mountain,ny,0,0,
+Operating,2,Double,1200,441,1430,450,Bottom,3.2,willard mountain,ny,0,0,
+Operating,Westside Six,High Speed Six,3000,1294,5078,1000,Bottom,5.1,windham mountain,ny,1,0,
+Operating,East Peak Express,High Speed Quad,2400,1045,3762,1000,Bottom,3.8,windham mountain,ny,1,0,
+Operating,Whiteway Express,High Speed Quad,2400,387,1704,1000,Bottom,1.7,windham mountain,ny,1,0,
+Operating,Wonderama Express,High Speed Quad,2000,,,,Bottom,,windham mountain,ny,1,0,
+Operating,Willpower,Triple,1200,50,457,350,Bottom,1.3,windham mountain,ny,1,0,
+Operating,Baker,Double,1000,1149,4062,500,Bottom,8.1,windham mountain,ny,1,0,
+Operating,The Gondola,Gondola 10,3600,1604,5622,1100,Top,5.1,winter park,co,1,0,119
+Operating,Panoramic Express,High Speed Six,3200,1640,7224,1000,Bottom,7.2,winter park,co,1,0,119
+Operating,Super Gauge Express,High Speed Six,3200,1771,6913,1000,Top,6.9,winter park,co,1,0,119
+Operating,Village Cabriolet,Cabriolet 8,2800,83,1436,620,Top,2.3,winter park,co,1,0,119
+Operating,Pioneer Express,High Speed Quad,2800,1214,6778,1000,Top,6.8,winter park,co,1,0,119
+Operating,Explorer Express,High Speed Quad,2400,1243,4637,1100,Top,4.2,winter park,co,1,0,119
+Operating,Gemini Express,High Speed Quad,2400,490,2337,900,Top,2.6,winter park,co,1,0,119
+Operating,Prospector Express,High Speed Quad,2400,696,2870,900,Top,3.2,winter park,co,1,0,119
+Operating,Sunnyside Express,High Speed Six,2400,873,3778,1000,Top,3.8,winter park,co,1,0,119
+Operating,High Lonesome Express,High Speed Quad,2300,776,5874,800,Top,7.3,winter park,co,1,0,119
+Operating,Olympia Express,High Speed Quad,1800,1112,7080,900,Top,7.9,winter park,co,1,0,119
+Operating,Endeavour,Triple,1800,318,1700,350,Top,4.9,winter park,co,1,0,119
+Operating,Challenger,Double,1200,1452,4805,500,Top,9.6,winter park,co,1,0,119
+Operating,Discovery,Double,1200,120,1148,400,Top,3.5,winter park,co,1,0,119
+Operating,Iron Horse,Double,1200,1576,5820,500,Top,11.6,winter park,co,1,0,119
+Operating,Looking Glass,Double,1200,443,1795,450,Bottom,4,winter park,co,1,0,119
+Operating,Pony Express,Double,1200,1051,3415,500,Top,6.8,winter park,co,1,0,119
+Operating,Arrow,Triple,1200,632,2360,475,Top,5,winter park,co,1,0,119
+Operating,Galloping Goose,Double,1080,130,1244,450,Top,2.8,winter park,co,1,0,119
+Operating,Eagle Wind,Triple,1618,1180,,,Top,9,winter park,co,1,0,119
+Operating,Raven,High Speed Quad,2400,711,2673,1000,Bottom,2.7,wolf creek,co,0,0,56
+Operating,Treasure Stoke,High Speed Quad,1800,1079,4447,1000,Bottom,4.4,wolf creek,co,0,0,56
+Operating,Alberta,Quad,1800,1101,5215,475,Bottom,11,wolf creek,co,0,0,56
+Operating,Bonanza,Triple,1800,952,3715,500,Bottom,7.4,wolf creek,co,0,0,56
+Operating,Charity Jane Express,High Speed Quad,1500,308,2088,1000,Top,2.1,wolf creek,co,0,0,56
+Operating,Nova,Double,1200,117,627,,Bottom,,wolf creek,co,0,0,56
+Operating,Elma,Triple,1618,,,,Bottom,,wolf creek,co,0,0,56
+Operating,Big,Double,1200,477,3218,465,Bottom,6.9,woods valley,ny,0,0,
+Operating,Little,Double,1000,143,1068,340,Bottom,3.1,woods valley,ny,0,0,
+Operating,Eglise Gondola Stage 1,Gondola 8,2000,72,1423,1000,Top,1.4,yellowstone club,mt,0,0,0
+Operating,Eglise Gondola Stage 2,Gondola 8,2000,1221,6323,1000,Bottom,6.3,yellowstone club,mt,0,0,0
+Operating,American Spirit,High Speed Quad,2000,1330,6016,1000,Top,6,yellowstone club,mt,0,0,0
+Operating,Lake,High Speed Quad,2000,1543,6276,1000,Top,6.3,yellowstone club,mt,0,0,0
+Operating,Lodge,High Speed Quad,2000,2151,9847,1100,Top,9,yellowstone club,mt,0,0,0
+Operating,Andesite Ridge,High Speed Quad,1900,1354,5394,1000,Top,5.4,yellowstone club,mt,0,0,0
+Operating,Silvertip,High Speed Quad,1800,1235,4762,1000,Top,4.8,yellowstone club,mt,0,0,0
+Operating,Great Bear,High Speed Quad,1500,793,4737,1000,Top,4.7,yellowstone club,mt,0,0,0
+Operating,Mountain,Double,1000,528,1399,550,Bottom,2.5,yellowstone club,mt,0,0,0
+Operating,Hideaway,Triple,600,415,2415,400,Top,6,yellowstone club,mt,0,0,0
+Operating,Southern Cross,Triple,600,290,1276,450,Top,2.8,yellowstone club,mt,0,0,0
+Operating,Pine Ridge,Pulse Quad,490,574,4326,1000,Top,4.3,yellowstone club,mt,0,0,0
+Operating,River Crossing,Double,300,18,676,300,Top,2.3,yellowstone club,mt,0,0,0
+Operating,Meadow,Pulse Quad,300,875,6082,1000,Top,6.1,yellowstone club,mt,0,0,0
+Operating,Alpine Greens,Tram 8,166,330,1240,600,Bottom,2.1,yellowstone club,mt,0,0,0
+Operating,Little Dipper,Triple,1618,,,,Top,,yellowstone club,mt,0,0,0
+Operating,Bruin,Double,1320,138,1080,300,Bottom,3.6,yosemite,ca,0,0,
+Operating,Red Fox,Double,1200,553,3016,465,Bottom,6.5,yosemite,ca,0,0,
+Operating,Badger,Double,1186,272,925,465,Bottom,2,yosemite,ca,0,0,
+Operating,Eagle,Triple,1618,574,3364,,Bottom,,yosemite,ca,0,0,
